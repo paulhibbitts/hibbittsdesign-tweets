@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Sat Aug 27 22:25:54 +0000 2016",
+		"id": 769662247366897700,
+		"id_str": "769662247366897664",
+		"text": "RT @IATV: \"John Ellenby, Visionary Who Helped Create Early Laptop, Dies at 75\" https://t.co/S6cEucDY9h (https://t.co/kmzLGouDnO)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IATV",
+					"name": "Jan Jursa",
+					"id": 17151314,
+					"id_str": "17151314",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S6cEucDY9h",
+					"expanded_url": "http://mobile.nytimes.com/2016/08/27/technology/john-ellenby-visionary-who-helped-create-early-laptop-dies-at-75.html",
+					"display_url": "mobile.nytimes.com/2016/08/27/tec…",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/kmzLGouDnO",
+					"expanded_url": "http://nytimes.com",
+					"display_url": "nytimes.com",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 960,
+			"friends_count": 634,
+			"listed_count": 160,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1635,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 27 22:23:17 +0000 2016",
+			"id": 769661591071690800,
+			"id_str": "769661591071690752",
+			"text": "\"John Ellenby, Visionary Who Helped Create Early Laptop, Dies at 75\" https://t.co/S6cEucDY9h (https://t.co/kmzLGouDnO)",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/S6cEucDY9h",
+						"expanded_url": "http://mobile.nytimes.com/2016/08/27/technology/john-ellenby-visionary-who-helped-create-early-laptop-dies-at-75.html",
+						"display_url": "mobile.nytimes.com/2016/08/27/tec…",
+						"indices": [
+							69,
+							92
+						]
+					},
+					{
+						"url": "https://t.co/kmzLGouDnO",
+						"expanded_url": "http://nytimes.com",
+						"display_url": "nytimes.com",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17151314,
+				"id_str": "17151314",
+				"name": "Jan Jursa",
+				"screen_name": "IATV",
+				"location": "Berlin",
+				"description": "MOBX Conference / Europe’s Premier Mobile UX Summit http://t.co/ALKO6zHW1W",
+				"url": "http://t.co/HyFwOVjWsr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HyFwOVjWsr",
+								"expanded_url": "http://about.me/jan.jursa",
+								"display_url": "about.me/jan.jursa",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/ALKO6zHW1W",
+								"expanded_url": "http://mobxcon.com",
+								"display_url": "mobxcon.com",
+								"indices": [
+									52,
+									74
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 69308,
+				"friends_count": 52388,
+				"listed_count": 3209,
+				"created_at": "Tue Nov 04 07:56:50 +0000 2008",
+				"favourites_count": 1622,
+				"utc_offset": 7200,
+				"time_zone": "Berlin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29556,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/466681693235982336/4v-lZ2o2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/466681693235982336/4v-lZ2o2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17151314/1400100499",
+				"profile_link_color": "003E75",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 16:04:03 +0000 2016",
+		"id": 769566153626701800,
+		"id_str": "769566153626701824",
+		"text": "Wow, here is an unassuming Twitter byline that delivers a valuable message that we should all consider (and act on): https://t.co/KYgeZXfmzt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 769558563836440600,
+					"id_str": "769558563836440576",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq4Fb79UsAANynH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq4Fb79UsAANynH.jpg",
+					"url": "https://t.co/KYgeZXfmzt",
+					"display_url": "pic.twitter.com/KYgeZXfmzt",
+					"expanded_url": "https://twitter.com/hibbittsdesign/status/769566153626701824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 307,
+							"h": 249,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 307,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 307,
+							"h": 249,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 769558563836440600,
+					"id_str": "769558563836440576",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq4Fb79UsAANynH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq4Fb79UsAANynH.jpg",
+					"url": "https://t.co/KYgeZXfmzt",
+					"display_url": "pic.twitter.com/KYgeZXfmzt",
+					"expanded_url": "https://twitter.com/hibbittsdesign/status/769566153626701824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 307,
+							"h": 249,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 307,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 307,
+							"h": 249,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 960,
+			"friends_count": 634,
+			"listed_count": 160,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1635,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 02:15:47 +0000 2016",
+		"id": 769357713931247600,
+		"id_str": "769357713931247617",
+		"text": "RT @jboogie: Good to see folks realizing there is no silver bullet process for building great products. Context determines which activities…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jboogie",
+					"name": "Jeff Gothelf",
+					"id": 9384812,
+					"id_str": "9384812",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 960,
+			"friends_count": 634,
+			"listed_count": 160,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1635,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 26 18:28:21 +0000 2016",
+			"id": 769240080082935800,
+			"id_str": "769240080082935808",
+			"text": "Good to see folks realizing there is no silver bullet process for building great products. Context determines which activities make sense.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9384812,
+				"id_str": "9384812",
+				"name": "Jeff Gothelf",
+				"screen_name": "jboogie",
+				"location": "The Left Bank of NYC",
+				"description": "Author: https://t.co/91EvIaGw8F & https://t.co/zRxqelwOkh  I help build great organizations. Upcoming events: https://t.co/fmT1GYpUY9",
+				"url": "https://t.co/kHPHPgVslS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kHPHPgVslS",
+								"expanded_url": "http://www.jeffgothelf.com",
+								"display_url": "jeffgothelf.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/91EvIaGw8F",
+								"expanded_url": "http://www.leanuxbook.com",
+								"display_url": "leanuxbook.com",
+								"indices": [
+									8,
+									31
+								]
+							},
+							{
+								"url": "https://t.co/zRxqelwOkh",
+								"expanded_url": "http://senseandrespond.co",
+								"display_url": "senseandrespond.co",
+								"indices": [
+									34,
+									57
+								]
+							},
+							{
+								"url": "https://t.co/fmT1GYpUY9",
+								"expanded_url": "http://lanyrd.com/profile/jboogie/future/",
+								"display_url": "lanyrd.com/profile/jboogi…",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27515,
+				"friends_count": 743,
+				"listed_count": 2037,
+				"created_at": "Thu Oct 11 17:50:27 +0000 2007",
+				"favourites_count": 1440,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32067,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830328501/2a31b13b2b59b90fa0278771a80fc27b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830328501/2a31b13b2b59b90fa0278771a80fc27b.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725599999644602368/W95reVDZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725599999644602368/W95reVDZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9384812/1461577388",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 26 23:33:26 +0000 2016",
 		"id": 769316855777407000,
 		"id_str": "769316855777406976",
