@@ -1,6 +1,625 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 22:15:42 +0000 2016",
+		"id": 772558785114103800,
+		"id_str": "772558785114103808",
+		"text": "RT @grantpotter: 'Students rate their universities' @cbcsunday #bcpse https://t.co/7U3J4jFuLe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bcpse",
+					"indices": [
+						63,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "CBCSunday",
+					"name": "CBCSundayEdition",
+					"id": 455102100,
+					"id_str": "455102100",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7U3J4jFuLe",
+					"expanded_url": "http://www.cbc.ca/radio/popup/audio/listen.html?autoPlay=true&clipIds=&mediaIds=2686535656&contentarea=radio&subsection1=radio1&subsection2=currentaffairs&subsection3=the_sunday_edition&contenttype=audio&title=2016/09/04/1.3744349-students-rate-their-universities&contentid=1.3744349",
+					"display_url": "cbc.ca/radio/popup/au…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 961,
+			"friends_count": 636,
+			"listed_count": 164,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1658,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 04 18:09:52 +0000 2016",
+			"id": 772496920845639700,
+			"id_str": "772496920845639680",
+			"text": "'Students rate their universities' @cbcsunday #bcpse https://t.co/7U3J4jFuLe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bcpse",
+						"indices": [
+							46,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CBCSunday",
+						"name": "CBCSundayEdition",
+						"id": 455102100,
+						"id_str": "455102100",
+						"indices": [
+							35,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7U3J4jFuLe",
+						"expanded_url": "http://www.cbc.ca/radio/popup/audio/listen.html?autoPlay=true&clipIds=&mediaIds=2686535656&contentarea=radio&subsection1=radio1&subsection2=currentaffairs&subsection3=the_sunday_edition&contenttype=audio&title=2016/09/04/1.3744349-students-rate-their-universities&contentid=1.3744349",
+						"display_url": "cbc.ca/radio/popup/au…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://known.networkeffects.ca\" rel=\"nofollow\">known-twitter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6271482,
+				"id_str": "6271482",
+				"name": "Grant Potter",
+				"screen_name": "grantpotter",
+				"location": "a land of shadow & substance",
+				"description": "Educator, instructional technologist, tinkerer, musicmaker, hauler of bootstraps",
+				"url": "http://t.co/faKnijBAxb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/faKnijBAxb",
+								"expanded_url": "http://known.networkeffects.ca",
+								"display_url": "known.networkeffects.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2049,
+				"friends_count": 2381,
+				"listed_count": 205,
+				"created_at": "Wed May 23 20:55:07 +0000 2007",
+				"favourites_count": 1017,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17500,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E7E9E9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/7749731/twitterback2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/7749731/twitterback2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/639833921228640256/S63CDenk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/639833921228640256/S63CDenk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6271482/1417024686",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C2A394",
+				"profile_text_color": "121111",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 22:01:56 +0000 2016",
+		"id": 772555322443444200,
+		"id_str": "772555322443444224",
+		"text": "Working on a 1-liner of my CMPT 363 #UX design course:\n“Empathetic problem-solving aligning people, business and technology.”\nWork for you?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UX",
+					"indices": [
+						36,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 961,
+			"friends_count": 636,
+			"listed_count": 164,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1658,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 18:04:28 +0000 2016",
+		"id": 772495560494284800,
+		"id_str": "772495560494284800",
+		"text": "RT @nilofer: This --&gt; on ageism and it's cost to our social structure and prosperity. https://t.co/aAR0kM1oDD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nilofer",
+					"name": "Nilofer Merchant",
+					"id": 12354252,
+					"id_str": "12354252",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aAR0kM1oDD",
+					"expanded_url": "http://www.nytimes.com/2016/09/04/opinion/sunday/youre-how-old-well-be-in-touch.html?smprod=nytcore-iphone&smid=nytcore-iphone-share",
+					"display_url": "nytimes.com/2016/09/04/opi…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 961,
+			"friends_count": 636,
+			"listed_count": 164,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1658,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 04 18:00:19 +0000 2016",
+			"id": 772494517660332000,
+			"id_str": "772494517660332032",
+			"text": "This --&gt; on ageism and it's cost to our social structure and prosperity. https://t.co/aAR0kM1oDD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aAR0kM1oDD",
+						"expanded_url": "http://www.nytimes.com/2016/09/04/opinion/sunday/youre-how-old-well-be-in-touch.html?smprod=nytcore-iphone&smid=nytcore-iphone-share",
+						"display_url": "nytimes.com/2016/09/04/opi…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12354252,
+				"id_str": "12354252",
+				"name": "Nilofer Merchant",
+				"screen_name": "nilofer",
+				"location": "Silicon Valley | Paris",
+				"description": "The Future is not created, it's co-created. Winner @Thinkers50 Future Thinker Award. TED2013 Speaker. @HarvardBiz @timeinc writer. 2xAuthor #SocialEra.",
+				"url": "http://t.co/CavCTd6AVM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CavCTd6AVM",
+								"expanded_url": "http://nilofermerchant.com",
+								"display_url": "nilofermerchant.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52835,
+				"friends_count": 1419,
+				"listed_count": 3144,
+				"created_at": "Thu Jan 17 11:04:21 +0000 2008",
+				"favourites_count": 3471,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28632,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000067603215/8f533ea449f3495a043965f2a362e0a2.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000067603215/8f533ea449f3495a043965f2a362e0a2.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/648184730421194753/jRUfWr6z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/648184730421194753/jRUfWr6z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12354252/1443374527",
+				"profile_link_color": "FC5E53",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "5A4231",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "a2de7c70b82b0ca0",
+				"url": "https://api.twitter.com/1.1/geo/id/a2de7c70b82b0ca0.json",
+				"place_type": "city",
+				"name": "Los Gatos",
+				"full_name": "Los Gatos, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-121.997026,
+								37.205924
+							],
+							[
+								-121.905719,
+								37.205924
+							],
+							[
+								-121.905719,
+								37.265466
+							],
+							[
+								-121.997026,
+								37.265466
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 03 23:14:55 +0000 2016",
 		"id": 772211299182710800,
 		"id_str": "772211299182710784",
