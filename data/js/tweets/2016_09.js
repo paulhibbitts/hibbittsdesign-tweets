@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 00:44:11 +0000 2016",
+		"id": 774408093375410200,
+		"id_str": "774408093375410176",
+		"text": "RT @CenterCentre: If you’d like to donate to our non-profit student loan fund, there’s still time. Please donate here: https://t.co/L4ggK2X…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CenterCentre",
+					"name": "Center Centre",
+					"id": 1408609760,
+					"id_str": "1408609760",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L4ggK2XZA9",
+					"expanded_url": "https://giveforward.centercentre.com/",
+					"display_url": "giveforward.centercentre.com",
+					"indices": [
+						119,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 967,
+			"friends_count": 638,
+			"listed_count": 167,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1683,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 10 00:38:16 +0000 2016",
+			"id": 774406603323748400,
+			"id_str": "774406603323748353",
+			"text": "If you’d like to donate to our non-profit student loan fund, there’s still time. Please donate here: https://t.co/L4ggK2XZA9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/L4ggK2XZA9",
+						"expanded_url": "https://giveforward.centercentre.com/",
+						"display_url": "giveforward.centercentre.com",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1408609760,
+				"id_str": "1408609760",
+				"name": "Center Centre",
+				"screen_name": "CenterCentre",
+				"location": "Chattanooga, TN",
+				"description": "What if we created a school that prepared students for user experience (UX) design jobs? That’s what we’ve done. Join the future of UX.",
+				"url": "http://t.co/zIPECAlJp3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zIPECAlJp3",
+								"expanded_url": "http://centercentre.com",
+								"display_url": "centercentre.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3469,
+				"friends_count": 5,
+				"listed_count": 243,
+				"created_at": "Mon May 06 20:03:57 +0000 2013",
+				"favourites_count": 385,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1510,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "45C1C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441769323049127936/d0XUqwvm.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441769323049127936/d0XUqwvm.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/774235100519211008/IPSU_inB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/774235100519211008/IPSU_inB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1408609760/1460040309",
+				"profile_link_color": "9D3968",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 09 23:51:10 +0000 2016",
 		"id": 774394749440577500,
 		"id_str": "774394749440577536",
