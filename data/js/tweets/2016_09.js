@@ -1,6 +1,703 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 22:30:23 +0000 2016",
+		"id": 775823971467927600,
+		"id_str": "775823971467927552",
+		"text": "Thanks to Blueprints in @getgrav Admin Panel, Grav Course Hub users will soon not need to edit text files anymore.🙌 https://t.co/2cO3k0m2hT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 775822935093186600,
+					"id_str": "775822935093186560",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CsRG2VbUkAAoJlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsRG2VbUkAAoJlw.jpg",
+					"url": "https://t.co/2cO3k0m2hT",
+					"display_url": "pic.twitter.com/2cO3k0m2hT",
+					"expanded_url": "https://twitter.com/hibbittsdesign/status/775823971467927552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 836,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 836,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 526,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 775822935093186600,
+					"id_str": "775822935093186560",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CsRG2VbUkAAoJlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsRG2VbUkAAoJlw.jpg",
+					"url": "https://t.co/2cO3k0m2hT",
+					"display_url": "pic.twitter.com/2cO3k0m2hT",
+					"expanded_url": "https://twitter.com/hibbittsdesign/status/775823971467927552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 836,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 836,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 526,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 775822935093223400,
+					"id_str": "775822935093223436",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CsRG2VbVIAwR7Y2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsRG2VbVIAwR7Y2.jpg",
+					"url": "https://t.co/2cO3k0m2hT",
+					"display_url": "pic.twitter.com/2cO3k0m2hT",
+					"expanded_url": "https://twitter.com/hibbittsdesign/status/775823971467927552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 836,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 836,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 526,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 775822935089000400,
+					"id_str": "775822935089000448",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CsRG2VaUsAACk-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsRG2VaUsAACk-X.jpg",
+					"url": "https://t.co/2cO3k0m2hT",
+					"display_url": "pic.twitter.com/2cO3k0m2hT",
+					"expanded_url": "https://twitter.com/hibbittsdesign/status/775823971467927552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 836,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 836,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 526,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 962,
+			"friends_count": 638,
+			"listed_count": 167,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1688,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4142,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 13 21:47:17 +0000 2016",
+		"id": 775813125505359900,
+		"id_str": "775813125505359901",
+		"text": "RT @SandstormIO: Create and share spreadsheets on the web using @EtherCalc by @audreyt on Sandstorm. Try it: https://t.co/dW25ugzRo8 https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SandstormIO",
+					"name": "Sandstorm.IO",
+					"id": 2476570038,
+					"id_str": "2476570038",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "EtherCalc",
+					"name": "EtherCalc",
+					"id": 2866965804,
+					"id_str": "2866965804",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"screen_name": "audreyt",
+					"name": "唐鳳",
+					"id": 7403862,
+					"id_str": "7403862",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dW25ugzRo8",
+					"expanded_url": "http://ow.ly/2ofT303ZzsW",
+					"display_url": "ow.ly/2ofT303ZzsW",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 773595198387548200,
+					"id_str": "773595198387548164",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Crxcu_fWcAQlk2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Crxcu_fWcAQlk2f.jpg",
+					"url": "https://t.co/tKEh85hEun",
+					"display_url": "pic.twitter.com/tKEh85hEun",
+					"expanded_url": "https://twitter.com/SandstormIO/status/773595200874840064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773595200874840000,
+					"source_status_id_str": "773595200874840064",
+					"source_user_id": 2476570038,
+					"source_user_id_str": "2476570038"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 773595198387548200,
+					"id_str": "773595198387548164",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Crxcu_fWcAQlk2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Crxcu_fWcAQlk2f.jpg",
+					"url": "https://t.co/tKEh85hEun",
+					"display_url": "pic.twitter.com/tKEh85hEun",
+					"expanded_url": "https://twitter.com/SandstormIO/status/773595200874840064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773595200874840000,
+					"source_status_id_str": "773595200874840064",
+					"source_user_id": 2476570038,
+					"source_user_id_str": "2476570038"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 962,
+			"friends_count": 638,
+			"listed_count": 167,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1688,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4142,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 07 18:54:03 +0000 2016",
+			"id": 773595200874840000,
+			"id_str": "773595200874840064",
+			"text": "Create and share spreadsheets on the web using @EtherCalc by @audreyt on Sandstorm. Try it: https://t.co/dW25ugzRo8 https://t.co/tKEh85hEun",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EtherCalc",
+						"name": "EtherCalc",
+						"id": 2866965804,
+						"id_str": "2866965804",
+						"indices": [
+							47,
+							57
+						]
+					},
+					{
+						"screen_name": "audreyt",
+						"name": "唐鳳",
+						"id": 7403862,
+						"id_str": "7403862",
+						"indices": [
+							61,
+							69
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dW25ugzRo8",
+						"expanded_url": "http://ow.ly/2ofT303ZzsW",
+						"display_url": "ow.ly/2ofT303ZzsW",
+						"indices": [
+							92,
+							115
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 773595198387548200,
+						"id_str": "773595198387548164",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Crxcu_fWcAQlk2f.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Crxcu_fWcAQlk2f.jpg",
+						"url": "https://t.co/tKEh85hEun",
+						"display_url": "pic.twitter.com/tKEh85hEun",
+						"expanded_url": "https://twitter.com/SandstormIO/status/773595200874840064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 773595198387548200,
+						"id_str": "773595198387548164",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Crxcu_fWcAQlk2f.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Crxcu_fWcAQlk2f.jpg",
+						"url": "https://t.co/tKEh85hEun",
+						"display_url": "pic.twitter.com/tKEh85hEun",
+						"expanded_url": "https://twitter.com/SandstormIO/status/773595200874840064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2476570038,
+				"id_str": "2476570038",
+				"name": "Sandstorm.IO",
+				"screen_name": "SandstormIO",
+				"location": "Palo Alto, CA",
+				"description": "Open Source Personal Cloud Platform.  A radically easier way to host personal web apps. Demo: http://t.co/15Z2twyelG",
+				"url": "https://t.co/4yCVIbJQBL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4yCVIbJQBL",
+								"expanded_url": "https://sandstorm.io",
+								"display_url": "sandstorm.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/15Z2twyelG",
+								"expanded_url": "http://demo.sandstorm.io",
+								"display_url": "demo.sandstorm.io",
+								"indices": [
+									94,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2580,
+				"friends_count": 319,
+				"listed_count": 97,
+				"created_at": "Sun May 04 08:12:45 +0000 2014",
+				"favourites_count": 538,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 742,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463413707150589952/s17ccuOO_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463413707150589952/s17ccuOO_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2476570038/1411452191",
+				"profile_link_color": "A49F97",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 12 22:45:45 +0000 2016",
 		"id": 775465451140751400,
 		"id_str": "775465451140751360",
