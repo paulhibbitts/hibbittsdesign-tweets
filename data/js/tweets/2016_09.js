@@ -1,6 +1,997 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 18:53:06 +0000 2016",
+		"id": 777218842271506400,
+		"id_str": "777218842271506433",
+		"text": "RT @gantry_fw: Help support @getgrav in the 2016 CMS Critic Awards: https://t.co/4NkJ2M4yz7 Nominated in three categories! https://t.co/Hwv…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gantry_fw",
+					"name": "Gantry Framework",
+					"id": 3485276114,
+					"id_str": "3485276114",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						28,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4NkJ2M4yz7",
+					"expanded_url": "http://buff.ly/2cf1qpm",
+					"display_url": "buff.ly/2cf1qpm",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 776822572893737000,
+					"id_str": "776822572893736961",
+					"indices": [
+						123,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CsfUA6bWEAEwqvp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsfUA6bWEAEwqvp.jpg",
+					"url": "https://t.co/HwvTRCSxjM",
+					"display_url": "pic.twitter.com/HwvTRCSxjM",
+					"expanded_url": "https://twitter.com/gantry_fw/status/776822575565537281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 476,
+							"h": 133,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 133,
+							"h": 133,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 476,
+							"h": 133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 133,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776822575565537300,
+					"source_status_id_str": "776822575565537281",
+					"source_user_id": 3485276114,
+					"source_user_id_str": "3485276114"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776822572893737000,
+					"id_str": "776822572893736961",
+					"indices": [
+						123,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CsfUA6bWEAEwqvp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsfUA6bWEAEwqvp.jpg",
+					"url": "https://t.co/HwvTRCSxjM",
+					"display_url": "pic.twitter.com/HwvTRCSxjM",
+					"expanded_url": "https://twitter.com/gantry_fw/status/776822575565537281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 476,
+							"h": 133,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 133,
+							"h": 133,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 476,
+							"h": 133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 133,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776822575565537300,
+					"source_status_id_str": "776822575565537281",
+					"source_user_id": 3485276114,
+					"source_user_id_str": "3485276114"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 964,
+			"friends_count": 639,
+			"listed_count": 169,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1698,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 16 16:38:29 +0000 2016",
+			"id": 776822575565537300,
+			"id_str": "776822575565537281",
+			"text": "Help support @getgrav in the 2016 CMS Critic Awards: https://t.co/4NkJ2M4yz7 Nominated in three categories! https://t.co/HwvTRCSxjM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "getgrav",
+						"name": "Grav",
+						"id": 2737573033,
+						"id_str": "2737573033",
+						"indices": [
+							13,
+							21
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4NkJ2M4yz7",
+						"expanded_url": "http://buff.ly/2cf1qpm",
+						"display_url": "buff.ly/2cf1qpm",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 776822572893737000,
+						"id_str": "776822572893736961",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/CsfUA6bWEAEwqvp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsfUA6bWEAEwqvp.jpg",
+						"url": "https://t.co/HwvTRCSxjM",
+						"display_url": "pic.twitter.com/HwvTRCSxjM",
+						"expanded_url": "https://twitter.com/gantry_fw/status/776822575565537281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 476,
+								"h": 133,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 133,
+								"h": 133,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 476,
+								"h": 133,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 476,
+								"h": 133,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776822572893737000,
+						"id_str": "776822572893736961",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/CsfUA6bWEAEwqvp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsfUA6bWEAEwqvp.jpg",
+						"url": "https://t.co/HwvTRCSxjM",
+						"display_url": "pic.twitter.com/HwvTRCSxjM",
+						"expanded_url": "https://twitter.com/gantry_fw/status/776822575565537281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 476,
+								"h": 133,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 133,
+								"h": 133,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 476,
+								"h": 133,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 476,
+								"h": 133,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3485276114,
+				"id_str": "3485276114",
+				"name": "Gantry Framework",
+				"screen_name": "gantry_fw",
+				"location": "Everywhere",
+				"description": "Modern theme development framework for Joomla, WordPress and Grav",
+				"url": "http://t.co/FY5qCYJG5R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FY5qCYJG5R",
+								"expanded_url": "http://gantry.org",
+								"display_url": "gantry.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 280,
+				"friends_count": 5,
+				"listed_count": 28,
+				"created_at": "Mon Sep 07 20:07:51 +0000 2015",
+				"favourites_count": 38,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 138,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656192636479340544/aBJrIUNP_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656192636479340544/aBJrIUNP_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3485276114/1441657901",
+				"profile_link_color": "439A86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 17 16:47:10 +0000 2016",
+		"id": 777187149342879700,
+		"id_str": "777187149342879744",
+		"text": "RT @ChrisGeison: Yes! Stop with the skateboard-to-car illustrations already. Best illustration I've seen of #MVP. \n(#prodmgmt) https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MVP",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "prodmgmt",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisGeison",
+					"name": "Christopher Geison",
+					"id": 756699979272585200,
+					"id_str": "756699979272585216",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b4OmLkUEz9",
+					"expanded_url": "https://twitter.com/movito/status/776322258088361984",
+					"display_url": "twitter.com/movito/status/…",
+					"indices": [
+						139,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 964,
+			"friends_count": 639,
+			"listed_count": 169,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1698,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 16 18:27:28 +0000 2016",
+			"id": 776850004723937300,
+			"id_str": "776850004723937280",
+			"text": "Yes! Stop with the skateboard-to-car illustrations already. Best illustration I've seen of #MVP. \n(#prodmgmt) https://t.co/b4OmLkUEz9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MVP",
+						"indices": [
+							91,
+							95
+						]
+					},
+					{
+						"text": "prodmgmt",
+						"indices": [
+							99,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/b4OmLkUEz9",
+						"expanded_url": "https://twitter.com/movito/status/776322258088361984",
+						"display_url": "twitter.com/movito/status/…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 756699979272585200,
+				"id_str": "756699979272585216",
+				"name": "Christopher Geison",
+				"screen_name": "ChrisGeison",
+				"location": "San Francisco, CA",
+				"description": "desigNer(d)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 94,
+				"friends_count": 646,
+				"listed_count": 52,
+				"created_at": "Sat Jul 23 03:58:28 +0000 2016",
+				"favourites_count": 136,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 331,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770143247263895552/pqKgctqs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770143247263895552/pqKgctqs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/756699979272585216/1469297323",
+				"profile_link_color": "574566",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 776322258088362000,
+			"quoted_status_id_str": "776322258088361984",
+			"quoted_status": {
+				"created_at": "Thu Sep 15 07:30:24 +0000 2016",
+				"id": 776322258088362000,
+				"id_str": "776322258088361984",
+				"text": "This is the MVP you are looking for\nhttps://t.co/lVsl7Wqsqh",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/lVsl7Wqsqh",
+							"expanded_url": "https://twitter.com/neilchurcher/status/669292860706070529",
+							"display_url": "twitter.com/neilchurcher/s…",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 700593,
+					"id_str": "700593",
+					"name": "Fredrik Matheson",
+					"screen_name": "movito",
+					"location": "Oslo, Norway",
+					"description": "I help people work better. UX & digital transformation at @BekkConsulting. \n| Improving UX education via @IxDAoslo",
+					"url": "https://t.co/SN5VKqLnTa",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/SN5VKqLnTa",
+									"expanded_url": "http://linkedin.com/in/movito",
+									"display_url": "linkedin.com/in/movito",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3582,
+					"friends_count": 3627,
+					"listed_count": 345,
+					"created_at": "Thu Jan 25 12:54:58 +0000 2007",
+					"favourites_count": 62278,
+					"utc_offset": 7200,
+					"time_zone": "Copenhagen",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 33021,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "BADFCD",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/23497419/2214551923_69bfd8bcc7.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/23497419/2214551923_69bfd8bcc7.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/460457076204916736/jey8mT4q_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/460457076204916736/jey8mT4q_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/700593/1398616978",
+					"profile_link_color": "FF0000",
+					"profile_sidebar_border_color": "F2E195",
+					"profile_sidebar_fill_color": "FFF7CC",
+					"profile_text_color": "0C3E53",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 669292860706070500,
+				"quoted_status_id_str": "669292860706070529",
+				"retweet_count": 9,
+				"favorite_count": 13,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 776322258088362000,
+		"quoted_status_id_str": "776322258088361984",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 17 01:39:47 +0000 2016",
+		"id": 776958797440950300,
+		"id_str": "776958797440950272",
+		"text": "RT @timmmmyboy: Quick Documentation Workflows with @clarifyapp https://t.co/69QEw5wABb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timmmmyboy",
+					"name": "Tim Owens",
+					"id": 185375498,
+					"id_str": "185375498",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "clarifyapp",
+					"name": "Clarify",
+					"id": 279224796,
+					"id_str": "279224796",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/69QEw5wABb",
+					"expanded_url": "https://blog.timowens.io/quick-documentation-workflows-with-clarify-2/",
+					"display_url": "blog.timowens.io/quick-document…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 964,
+			"friends_count": 639,
+			"listed_count": 169,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1698,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 17 01:35:04 +0000 2016",
+			"id": 776957611421888500,
+			"id_str": "776957611421888512",
+			"text": "Quick Documentation Workflows with @clarifyapp https://t.co/69QEw5wABb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "clarifyapp",
+						"name": "Clarify",
+						"id": 279224796,
+						"id_str": "279224796",
+						"indices": [
+							35,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/69QEw5wABb",
+						"expanded_url": "https://blog.timowens.io/quick-documentation-workflows-with-clarify-2/",
+						"display_url": "blog.timowens.io/quick-document…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 185375498,
+				"id_str": "185375498",
+				"name": "Tim Owens",
+				"screen_name": "timmmmyboy",
+				"location": "Fredericksburg, VA",
+				"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+				"url": "https://t.co/2XAn4AKqCb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2XAn4AKqCb",
+								"expanded_url": "https://timowens.io/",
+								"display_url": "timowens.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1510,
+				"friends_count": 795,
+				"listed_count": 109,
+				"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+				"favourites_count": 739,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19200,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 16 17:27:56 +0000 2016",
 		"id": 776835022774935600,
 		"id_str": "776835022774935552",
