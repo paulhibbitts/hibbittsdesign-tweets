@@ -1,6 +1,526 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 16:00:32 +0000 2016",
+		"id": 780799290880823300,
+		"id_str": "780799290880823297",
+		"text": "RT @elmsln: #LMS Webinar featuring @btopro about perspectives from… our perspective! Noon EST. https://t.co/bZg6RTPVN0 #edtech #ngdle #educ…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LMS",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "ngdle",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elmsln",
+					"name": "ELMS:LN",
+					"id": 236846178,
+					"id_str": "236846178",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "btopro",
+					"name": "Bryan Ollendyke",
+					"id": 16847370,
+					"id_str": "16847370",
+					"indices": [
+						35,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bZg6RTPVN0",
+					"expanded_url": "https://bardicsystemsevents.webex.com/bardicsystemsevents/onstage/g.php?MTID=ec4375ff617abbbb76a2a344fdec519fe",
+					"display_url": "bardicsystemsevents.webex.com/bardicsystemse…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 971,
+			"friends_count": 643,
+			"listed_count": 171,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1721,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4204,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 27 15:48:43 +0000 2016",
+			"id": 780796316666458100,
+			"id_str": "780796316666458112",
+			"text": "#LMS Webinar featuring @btopro about perspectives from… our perspective! Noon EST. https://t.co/bZg6RTPVN0 #edtech #ngdle #education #drupal",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LMS",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							107,
+							114
+						]
+					},
+					{
+						"text": "ngdle",
+						"indices": [
+							115,
+							121
+						]
+					},
+					{
+						"text": "education",
+						"indices": [
+							122,
+							132
+						]
+					},
+					{
+						"text": "drupal",
+						"indices": [
+							133,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "btopro",
+						"name": "Bryan Ollendyke",
+						"id": 16847370,
+						"id_str": "16847370",
+						"indices": [
+							23,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bZg6RTPVN0",
+						"expanded_url": "https://bardicsystemsevents.webex.com/bardicsystemsevents/onstage/g.php?MTID=ec4375ff617abbbb76a2a344fdec519fe",
+						"display_url": "bardicsystemsevents.webex.com/bardicsystemse…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 236846178,
+				"id_str": "236846178",
+				"name": "ELMS:LN",
+				"screen_name": "elmsln",
+				"location": "The Future",
+				"description": "ELMS: Learning Network\n#FOSS #NGDLE #edtech platform for sustainable innovation, transforming edu via learning ecosystems.\n\nFounded at Penn State\n\nEx Uno Plures",
+				"url": "https://t.co/zrYj0IWxi6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zrYj0IWxi6",
+								"expanded_url": "https://elmsln.org/",
+								"display_url": "elmsln.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 253,
+				"friends_count": 26,
+				"listed_count": 102,
+				"created_at": "Tue Jan 11 14:13:39 +0000 2011",
+				"favourites_count": 7,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1135,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598471972025073666/AFZ9BDCF.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598471972025073666/AFZ9BDCF.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/601925668025278465/4j0l2bWZ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/601925668025278465/4j0l2bWZ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/236846178/1463924550",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 27 15:23:18 +0000 2016",
+		"id": 780789921845874700,
+		"id_str": "780789921845874688",
+		"text": "RT @drchuck: In an hour, I will be participating in a webinar talking about the role of Open Source in the LMS marketplace https://t.co/R81…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drchuck",
+					"name": "drchuck",
+					"id": 10185562,
+					"id_str": "10185562",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 971,
+			"friends_count": 643,
+			"listed_count": 171,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1721,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4204,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 27 15:05:01 +0000 2016",
+			"id": 780785322246287400,
+			"id_str": "780785322246287360",
+			"text": "In an hour, I will be participating in a webinar talking about the role of Open Source in the LMS marketplace https://t.co/R81HtUg4Fd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R81HtUg4Fd",
+						"expanded_url": "https://bardicsystemsevents.webex.com/bardicsystemsevents/onstage/g.php?MTID=ec4375ff617abbbb76a2a344fdec519fe",
+						"display_url": "bardicsystemsevents.webex.com/bardicsystemse…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10185562,
+				"id_str": "10185562",
+				"name": "drchuck",
+				"screen_name": "drchuck",
+				"location": "iPhone: 37.868347,-122.255997",
+				"description": "I am on the faculty @UMSI, I work on the open source @sakaiproject, and I teach free online Python courses on Coursera  https://t.co/T3NbCOz8FR",
+				"url": "http://t.co/5szJLzBM4S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5szJLzBM4S",
+								"expanded_url": "http://www.dr-chuck.com",
+								"display_url": "dr-chuck.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/T3NbCOz8FR",
+								"expanded_url": "https://www.coursera.org/learn/python",
+								"display_url": "coursera.org/learn/python",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14722,
+				"friends_count": 641,
+				"listed_count": 629,
+				"created_at": "Mon Nov 12 16:33:12 +0000 2007",
+				"favourites_count": 501,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20273,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1396181322/new-square-pic_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396181322/new-square-pic_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10185562/1392143368",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 26 21:58:41 +0000 2016",
 		"id": 780527037656150000,
 		"id_str": "780527037656150016",
