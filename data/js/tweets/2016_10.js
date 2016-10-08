@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 19:54:01 +0000 2016",
+		"id": 784481929957482500,
+		"id_str": "784481929957482496",
+		"text": "RT @MalloryOConnor: The gift of time! Now you can submit your after your turkey dinner. They only take about 30 min - and they are FREE! ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MalloryOConnor",
+					"name": "Mallory O'Connor",
+					"id": 1122631,
+					"id_str": "1122631",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 974,
+			"friends_count": 644,
+			"listed_count": 175,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1743,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 07 19:51:02 +0000 2016",
+			"id": 784481179349061600,
+			"id_str": "784481179349061634",
+			"text": "The gift of time! Now you can submit your after your turkey dinner. They only take about 30 min - and they are FREE! https://t.co/EPrUIFUWft",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EPrUIFUWft",
+						"expanded_url": "https://twitter.com/van_ue/status/784479692166430720",
+						"display_url": "twitter.com/van_ue/status/…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1122631,
+				"id_str": "1122631",
+				"name": "Mallory O'Connor",
+				"screen_name": "MalloryOConnor",
+				"location": "Vancouver, Canada",
+				"description": "Works with people to co-create amazing workplace experiences @Habaneroconsult. https://t.co/iiUXlRdt7z and https://t.co/wOSYWwAqzB",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iiUXlRdt7z",
+								"expanded_url": "http://about.me/malloryoconnor",
+								"display_url": "about.me/malloryoconnor",
+								"indices": [
+									79,
+									102
+								]
+							},
+							{
+								"url": "https://t.co/wOSYWwAqzB",
+								"expanded_url": "http://bit.ly/1VnTnpp",
+								"display_url": "bit.ly/1VnTnpp",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 546,
+				"friends_count": 513,
+				"listed_count": 66,
+				"created_at": "Tue Mar 13 22:56:07 +0000 2007",
+				"favourites_count": 145,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1265,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/354139799/IMG_1965.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/354139799/IMG_1965.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2261747531/mallory_thumbnail_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2261747531/mallory_thumbnail_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122631/1443065523",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 784479692166430700,
+			"quoted_status_id_str": "784479692166430720",
+			"quoted_status": {
+				"created_at": "Fri Oct 07 19:45:08 +0000 2016",
+				"id": 784479692166430700,
+				"id_str": "784479692166430720",
+				"text": "You told us that you need more time for your #VanUXAwards so we've extended the deadline to Oct 12 11:59pm! Enter at https://t.co/DKZLLrkbAp",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "VanUXAwards",
+							"indices": [
+								45,
+								57
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/DKZLLrkbAp",
+							"expanded_url": "http://ow.ly/b0Qd304Y7gk",
+							"display_url": "ow.ly/b0Qd304Y7gk",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 944913038,
+					"id_str": "944913038",
+					"name": "VanUE",
+					"screen_name": "Van_UE",
+					"location": "Vancouver, BC",
+					"description": "Vancouver User Experience Group (VanUE). Bringing professionals together to be inspired about user experience since 2003.",
+					"url": "http://t.co/rSdghtpd",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/rSdghtpd",
+									"expanded_url": "http://www.vanue.com",
+									"display_url": "vanue.com",
+									"indices": [
+										0,
+										20
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 354,
+					"friends_count": 207,
+					"listed_count": 51,
+					"created_at": "Tue Nov 13 00:51:33 +0000 2012",
+					"favourites_count": 106,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 345,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2842592785/c138e36411049b83817c208ab9149c60_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2842592785/c138e36411049b83817c208ab9149c60_normal.png",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 784479692166430700,
+		"quoted_status_id_str": "784479692166430720",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 06 20:15:10 +0000 2016",
 		"id": 784124863954890800,
 		"id_str": "784124863954890752",
