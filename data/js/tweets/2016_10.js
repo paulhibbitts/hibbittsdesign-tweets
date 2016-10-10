@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 17:31:52 +0000 2016",
+		"id": 785170933413621800,
+		"id_str": "785170933413621760",
+		"text": "RT @MeasuringU: Rating The Severity Of Usability Problems (MeasuringU) https://t.co/wOkKrulhOl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeasuringU",
+					"name": "MeasuringU",
+					"id": 103951768,
+					"id_str": "103951768",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wOkKrulhOl",
+					"expanded_url": "http://ow.ly/9Vpj304NRJD",
+					"display_url": "ow.ly/9Vpj304NRJD",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 977,
+			"friends_count": 645,
+			"listed_count": 175,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1744,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 09 17:31:02 +0000 2016",
+			"id": 785170723799261200,
+			"id_str": "785170723799261184",
+			"text": "Rating The Severity Of Usability Problems (MeasuringU) https://t.co/wOkKrulhOl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wOkKrulhOl",
+						"expanded_url": "http://ow.ly/9Vpj304NRJD",
+						"display_url": "ow.ly/9Vpj304NRJD",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103951768,
+				"id_str": "103951768",
+				"name": "MeasuringU",
+				"screen_name": "MeasuringU",
+				"location": "Denver, CO US",
+				"description": "Usability, Customer Experience and Statistics. Tweets by Jeff Sauro & MeasuringU Team: Author of Customer Analytics for Dummies",
+				"url": "http://t.co/fUk1z4CX5K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fUk1z4CX5K",
+								"expanded_url": "http://www.measuringu.com",
+								"display_url": "measuringu.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22734,
+				"friends_count": 889,
+				"listed_count": 1444,
+				"created_at": "Mon Jan 11 19:51:09 +0000 2010",
+				"favourites_count": 8,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8911,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/583409384656474112/s7s7T22l.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/583409384656474112/s7s7T22l.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768568168553910272/Qigu06V6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768568168553910272/Qigu06V6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103951768/1472075881",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "050500",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 09 16:57:41 +0000 2016",
+		"id": 785162329528737800,
+		"id_str": "785162329528737792",
+		"text": "RT @whatusersdo: Here's a nice read on creating usability test tasks that really motivate users | via @userfocus https://t.co/MheVsIH5IO #ux",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ux",
+					"indices": [
+						137,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "whatusersdo",
+					"name": "WhatUsersDo",
+					"id": 18330725,
+					"id_str": "18330725",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "userfocus",
+					"name": "David Travis",
+					"id": 16509110,
+					"id_str": "16509110",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MheVsIH5IO",
+					"expanded_url": "http://buff.ly/2dDOTJQ",
+					"display_url": "buff.ly/2dDOTJQ",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 977,
+			"friends_count": 645,
+			"listed_count": 175,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1744,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 08 20:01:17 +0000 2016",
+			"id": 784846144539164700,
+			"id_str": "784846144539164673",
+			"text": "Here's a nice read on creating usability test tasks that really motivate users | via @userfocus https://t.co/MheVsIH5IO #ux",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ux",
+						"indices": [
+							120,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "userfocus",
+						"name": "David Travis",
+						"id": 16509110,
+						"id_str": "16509110",
+						"indices": [
+							85,
+							95
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MheVsIH5IO",
+						"expanded_url": "http://buff.ly/2dDOTJQ",
+						"display_url": "buff.ly/2dDOTJQ",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18330725,
+				"id_str": "18330725",
+				"name": "WhatUsersDo",
+				"screen_name": "whatusersdo",
+				"location": "Europe",
+				"description": "International #UX Testing platform that reveals the WHY of user behaviour. Understand your audience to increase customer satisfaction, sales & engagement. #CRO",
+				"url": "https://t.co/JHuOFwqjOK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JHuOFwqjOK",
+								"expanded_url": "http://buff.ly/1RZocMj",
+								"display_url": "buff.ly/1RZocMj",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9456,
+				"friends_count": 10216,
+				"listed_count": 1195,
+				"created_at": "Tue Dec 23 10:18:29 +0000 2008",
+				"favourites_count": 10958,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22933,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "493087",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698670400/16e5a89a1cc48d82a95636fe7e529a24.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698670400/16e5a89a1cc48d82a95636fe7e529a24.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683985086157422596/WIXpI0Y6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683985086157422596/WIXpI0Y6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18330725/1469635452",
+				"profile_link_color": "F26941",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "F26941",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 08 17:34:48 +0000 2016",
 		"id": 784809283573559300,
 		"id_str": "784809283573559296",
