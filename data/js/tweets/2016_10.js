@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 03:24:31 +0000 2016",
+		"id": 786407240462848000,
+		"id_str": "786407240462848000",
+		"text": "RT @elmsln: Oh hi testimonial about #elmsln: \n#Drupal Powered E-learning with Buttercups Training https://t.co/lithSR2sOa #edtech #lms #ngd…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "elmsln",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"text": "Drupal",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "lms",
+					"indices": [
+						130,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elmsln",
+					"name": "ELMS:LN",
+					"id": 236846178,
+					"id_str": "236846178",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lithSR2sOa",
+					"expanded_url": "http://www.orangebus.co.uk/en/work/buttercups-training-elearning.aspx",
+					"display_url": "orangebus.co.uk/en/work/butter…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 978,
+			"friends_count": 645,
+			"listed_count": 177,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1750,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4261,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 13 03:12:27 +0000 2016",
+			"id": 786404203270844400,
+			"id_str": "786404203270844416",
+			"text": "Oh hi testimonial about #elmsln: \n#Drupal Powered E-learning with Buttercups Training https://t.co/lithSR2sOa #edtech #lms #ngdle",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "elmsln",
+						"indices": [
+							24,
+							31
+						]
+					},
+					{
+						"text": "Drupal",
+						"indices": [
+							34,
+							41
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							110,
+							117
+						]
+					},
+					{
+						"text": "lms",
+						"indices": [
+							118,
+							122
+						]
+					},
+					{
+						"text": "ngdle",
+						"indices": [
+							123,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lithSR2sOa",
+						"expanded_url": "http://www.orangebus.co.uk/en/work/buttercups-training-elearning.aspx",
+						"display_url": "orangebus.co.uk/en/work/butter…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 236846178,
+				"id_str": "236846178",
+				"name": "ELMS:LN",
+				"screen_name": "elmsln",
+				"location": "The Future",
+				"description": "ELMS: Learning Network\n#FOSS #NGDLE #edtech platform for sustainable innovation, transforming edu via learning ecosystems.\n\nFounded at Penn State\n\nEx Uno Plures",
+				"url": "https://t.co/zrYj0IWxi6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zrYj0IWxi6",
+								"expanded_url": "https://elmsln.org/",
+								"display_url": "elmsln.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 260,
+				"friends_count": 27,
+				"listed_count": 109,
+				"created_at": "Tue Jan 11 14:13:39 +0000 2011",
+				"favourites_count": 7,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1170,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598471972025073666/AFZ9BDCF.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598471972025073666/AFZ9BDCF.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/601925668025278465/4j0l2bWZ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/601925668025278465/4j0l2bWZ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/236846178/1463924550",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 13 03:23:13 +0000 2016",
+		"id": 786406913197998100,
+		"id_str": "786406913197998080",
+		"text": "RT @sundarpichai: Thank you for your immense contributions, RIP Dennis Ritchie https://t.co/LVacgkcXvl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sundarpichai",
+					"name": "sundarpichai",
+					"id": 14130366,
+					"id_str": "14130366",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LVacgkcXvl",
+					"expanded_url": "https://twitter.com/om/status/786381463193128960",
+					"display_url": "twitter.com/om/status/7863…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 978,
+			"friends_count": 645,
+			"listed_count": 177,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1750,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4261,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 13 03:15:08 +0000 2016",
+			"id": 786404877689757700,
+			"id_str": "786404877689757696",
+			"text": "Thank you for your immense contributions, RIP Dennis Ritchie https://t.co/LVacgkcXvl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LVacgkcXvl",
+						"expanded_url": "https://twitter.com/om/status/786381463193128960",
+						"display_url": "twitter.com/om/status/7863…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14130366,
+				"id_str": "14130366",
+				"name": "sundarpichai",
+				"screen_name": "sundarpichai",
+				"location": "",
+				"description": "CEO, @google",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 603128,
+				"friends_count": 268,
+				"listed_count": 3769,
+				"created_at": "Wed Mar 12 05:51:53 +0000 2008",
+				"favourites_count": 355,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 840,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481231649128980480/9hpv14pc_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481231649128980480/9hpv14pc_normal.jpeg",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 786381463193129000,
+			"quoted_status_id_str": "786381463193128960",
+			"quoted_status": {
+				"created_at": "Thu Oct 13 01:42:05 +0000 2016",
+				"id": 786381463193129000,
+				"id_str": "786381463193128960",
+				"text": "Dennis Ritchie, Father of C and Co-Developer of Unix, Dies https://t.co/LxkCK6i1DE via @WIRED",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "WIRED",
+							"name": "WIRED",
+							"id": 1344951,
+							"id_str": "1344951",
+							"indices": [
+								87,
+								93
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/LxkCK6i1DE",
+							"expanded_url": "https://www.wired.com/2011/10/dennis-ritchie/",
+							"display_url": "wired.com/2011/10/dennis…",
+							"indices": [
+								59,
+								82
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 989,
+					"id_str": "989",
+					"name": "Om Malik",
+					"screen_name": "om",
+					"location": "ÜT: 37.795917,-122.39966",
+					"description": "Partner, True Ventures. Founder, Gigaom. I love possibilities, I believe in people & imagineering. https://t.co/3q3MCMmyuu & https://t.co/AvBTBiv8hn",
+					"url": "https://t.co/WVmV8OHDXu",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/WVmV8OHDXu",
+									"expanded_url": "http://pi.co",
+									"display_url": "pi.co",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/3q3MCMmyuu",
+									"expanded_url": "http://facebook.com/ommalik",
+									"display_url": "facebook.com/ommalik",
+									"indices": [
+										99,
+										122
+									]
+								},
+								{
+									"url": "https://t.co/AvBTBiv8hn",
+									"expanded_url": "http://om.co",
+									"display_url": "om.co",
+									"indices": [
+										125,
+										148
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 1533411,
+					"friends_count": 1264,
+					"listed_count": 14365,
+					"created_at": "Sat Jul 15 05:53:13 +0000 2006",
+					"favourites_count": 32958,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 45386,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F8F7F5",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/16090443/OMTWITBACKGROUND.JPG",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/16090443/OMTWITBACKGROUND.JPG",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/682244125932949504/IOzmNOo__normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/682244125932949504/IOzmNOo__normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/989/1468432351",
+					"profile_link_color": "D37F0D",
+					"profile_sidebar_border_color": "D5CFC3",
+					"profile_sidebar_fill_color": "D5CFC3",
+					"profile_text_color": "706A54",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 383,
+				"favorite_count": 184,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 698,
+			"favorite_count": 856,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 786381463193129000,
+		"quoted_status_id_str": "786381463193128960",
+		"retweet_count": 698,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 12 20:41:07 +0000 2016",
 		"id": 786305722195685400,
 		"id_str": "786305722195685376",
