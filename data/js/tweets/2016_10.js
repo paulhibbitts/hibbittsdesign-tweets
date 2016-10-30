@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 18:55:14 +0000 2016",
+		"id": 792439668667146200,
+		"id_str": "792439668667146241",
+		"text": "RT @paulsmith: a pack of apple dongles is called a \"courage\" https://t.co/aLnAw1d2MZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulsmith",
+					"name": "Paul Smith",
+					"id": 4578,
+					"id_str": "4578",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aLnAw1d2MZ",
+					"expanded_url": "https://twitter.com/dbreunig/status/792034409788518401",
+					"display_url": "twitter.com/dbreunig/statu…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 984,
+			"friends_count": 647,
+			"listed_count": 191,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1802,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 28 16:56:59 +0000 2016",
+			"id": 792047523284353000,
+			"id_str": "792047523284353025",
+			"text": "a pack of apple dongles is called a \"courage\" https://t.co/aLnAw1d2MZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aLnAw1d2MZ",
+						"expanded_url": "https://twitter.com/dbreunig/status/792034409788518401",
+						"display_url": "twitter.com/dbreunig/statu…",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4578,
+				"id_str": "4578",
+				"name": "Paul Smith",
+				"screen_name": "paulsmith",
+				"location": "Chicago",
+				"description": "CTO and co-founder of @adhocteam. Making better software for government services. Helped rescue HealthCare․gov.",
+				"url": "https://t.co/4Ci24SI8vB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4Ci24SI8vB",
+								"expanded_url": "https://www.pauladamsmith.com/",
+								"display_url": "pauladamsmith.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3189,
+				"friends_count": 665,
+				"listed_count": 150,
+				"created_at": "Tue Aug 22 04:12:18 +0000 2006",
+				"favourites_count": 12303,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21331,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/19525582/FBT_at_night.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/19525582/FBT_at_night.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616074571184123904/TTkNI-39_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616074571184123904/TTkNI-39_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4578/1348073923",
+				"profile_link_color": "C934E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 792034409788518400,
+			"quoted_status_id_str": "792034409788518401",
+			"quoted_status": {
+				"created_at": "Fri Oct 28 16:04:53 +0000 2016",
+				"id": 792034409788518400,
+				"id_str": "792034409788518401",
+				"text": "Apple's fastest growing product category. https://t.co/d1sel4N5Yc",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 792034394986860500,
+							"id_str": "792034394986860544",
+							"indices": [
+								42,
+								65
+							],
+							"media_url": "http://pbs.twimg.com/media/Cv3fFfsVUAAMaX6.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Cv3fFfsVUAAMaX6.jpg",
+							"url": "https://t.co/d1sel4N5Yc",
+							"display_url": "pic.twitter.com/d1sel4N5Yc",
+							"expanded_url": "https://twitter.com/dbreunig/status/792034409788518401/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 406,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 716,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1239,
+									"h": 739,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 792034394986860500,
+							"id_str": "792034394986860544",
+							"indices": [
+								42,
+								65
+							],
+							"media_url": "http://pbs.twimg.com/media/Cv3fFfsVUAAMaX6.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Cv3fFfsVUAAMaX6.jpg",
+							"url": "https://t.co/d1sel4N5Yc",
+							"display_url": "pic.twitter.com/d1sel4N5Yc",
+							"expanded_url": "https://twitter.com/dbreunig/status/792034409788518401/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 406,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 716,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1239,
+									"h": 739,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 791750169779802100,
+				"in_reply_to_status_id_str": "791750169779802113",
+				"in_reply_to_user_id": 14208457,
+				"in_reply_to_user_id_str": "14208457",
+				"in_reply_to_screen_name": "dbreunig",
+				"user": {
+					"id": 14208457,
+					"id_str": "14208457",
+					"name": "Drew Breunig",
+					"screen_name": "dbreunig",
+					"location": "Bay Area",
+					"description": "Making data human, making humans data. VP of Strategy at @PlaceIQ. Co-founder @GetReporter.",
+					"url": "https://t.co/uLbXscmW3s",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/uLbXscmW3s",
+									"expanded_url": "http://drewb.org",
+									"display_url": "drewb.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2362,
+					"friends_count": 791,
+					"listed_count": 120,
+					"created_at": "Mon Mar 24 16:23:21 +0000 2008",
+					"favourites_count": 4200,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 15785,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "0A4144",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443009767/blackPinstripePattern.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443009767/blackPinstripePattern.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/606858092228116480/ctkzk-_r_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/606858092228116480/ctkzk-_r_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14208457/1470852374",
+					"profile_link_color": "0000FF",
+					"profile_sidebar_border_color": "F3F3F3",
+					"profile_sidebar_fill_color": "AFAFAF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16978,
+				"favorite_count": 19867,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 685,
+			"favorite_count": 879,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 792034409788518400,
+		"quoted_status_id_str": "792034409788518401",
+		"retweet_count": 685,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Oct 29 18:29:18 +0000 2016",
+		"id": 792433142992732200,
+		"id_str": "792433142992732160",
+		"text": "RT @clintlalonde: \"Scary tales of online learning and educational technology\" https://t.co/oaQs85gpqg #etug #freetofail",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "etug",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "freetofail",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clintlalonde",
+					"name": "Clint Lalonde",
+					"id": 12991032,
+					"id_str": "12991032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oaQs85gpqg",
+					"expanded_url": "http://www.tonybates.ca/2016/10/28/scary-tales-of-online-learning-and-educational-technology/",
+					"display_url": "tonybates.ca/2016/10/28/sca…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 984,
+			"friends_count": 647,
+			"listed_count": 191,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1802,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 29 05:23:16 +0000 2016",
+			"id": 792235329570771000,
+			"id_str": "792235329570770944",
+			"text": "\"Scary tales of online learning and educational technology\" https://t.co/oaQs85gpqg #etug #freetofail",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "etug",
+						"indices": [
+							84,
+							89
+						]
+					},
+					{
+						"text": "freetofail",
+						"indices": [
+							90,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oaQs85gpqg",
+						"expanded_url": "http://www.tonybates.ca/2016/10/28/scary-tales-of-online-learning-and-educational-technology/",
+						"display_url": "tonybates.ca/2016/10/28/sca…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12991032,
+				"id_str": "12991032",
+				"name": "Clint Lalonde",
+				"screen_name": "clintlalonde",
+				"location": "Victoria, BC, Canada",
+				"description": "Network learning, web hacking, Wikipedia editing, bike riding, coffee roasting,  #VWFC & #CanMNT loving Dad. Open educator & Manager, EdTech @BCcampus",
+				"url": "http://t.co/jOF9eZxqXD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jOF9eZxqXD",
+								"expanded_url": "http://clintlalonde.net",
+								"display_url": "clintlalonde.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2978,
+				"friends_count": 1790,
+				"listed_count": 284,
+				"created_at": "Sat Feb 02 21:31:56 +0000 2008",
+				"favourites_count": 4111,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22481,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684895821846855680/6EEV4DlG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684895821846855680/6EEV4DlG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12991032/1455755846",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 28 20:32:31 +0000 2016",
 		"id": 792101763276873700,
 		"id_str": "792101763276873728",
