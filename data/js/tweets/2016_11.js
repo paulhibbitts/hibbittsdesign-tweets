@@ -1,6 +1,957 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 23:27:40 +0000 2016",
+		"id": 795769719626207200,
+		"id_str": "795769719626207232",
+		"text": "@davidnwright Once created, page is unpublished and need to be published by Admin OR maybe it might result in a GitHub/GitLab PR - thoughts?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidnwright",
+					"name": "David N. Wright",
+					"id": 91939908,
+					"id_str": "91939908",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 794585755955826700,
+		"in_reply_to_status_id_str": "794585755955826689",
+		"in_reply_to_user_id": 91939908,
+		"in_reply_to_user_id_str": "91939908",
+		"in_reply_to_screen_name": "davidnwright",
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 650,
+			"listed_count": 190,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1840,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 23:25:57 +0000 2016",
+		"id": 795769286891475000,
+		"id_str": "795769286891474944",
+		"text": "@davidnwright I am looking into this more... as a first-pass would title field and body copy field (markdown, no visual preview) suffice?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidnwright",
+					"name": "David N. Wright",
+					"id": 91939908,
+					"id_str": "91939908",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 794585755955826700,
+		"in_reply_to_status_id_str": "794585755955826689",
+		"in_reply_to_user_id": 91939908,
+		"in_reply_to_user_id_str": "91939908",
+		"in_reply_to_screen_name": "davidnwright",
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 650,
+			"listed_count": 190,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1840,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 21:22:38 +0000 2016",
+		"id": 795738255001911300,
+		"id_str": "795738255001911296",
+		"text": "RT @jmspool: The @CenterCentre students are working through their first Design Sprint (Google Ventures Style) working on their team project…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jmspool",
+					"name": "Jared Spool",
+					"id": 849101,
+					"id_str": "849101",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "CenterCentre",
+					"name": "Center Centre",
+					"id": 1408609760,
+					"id_str": "1408609760",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 650,
+			"listed_count": 190,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1840,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 07 21:21:25 +0000 2016",
+			"id": 795737948197179400,
+			"id_str": "795737948197179392",
+			"text": "The @CenterCentre students are working through their first Design Sprint (Google Ventures Style) working on their t… https://t.co/QoD0zb6SgM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CenterCentre",
+						"name": "Center Centre",
+						"id": 1408609760,
+						"id_str": "1408609760",
+						"indices": [
+							4,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QoD0zb6SgM",
+						"expanded_url": "https://twitter.com/i/web/status/795737948197179392",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 849101,
+				"id_str": "849101",
+				"name": "Jared Spool",
+				"screen_name": "jmspool",
+				"location": "42.635976,-71.164046",
+				"description": "Exploring the boundaries of User Experience and United's Customer Service. Founder @UIE, Co-founder @CenterCentre.\nThank you for encouraging my behavior!",
+				"url": "http://t.co/LP7nMzB1Hr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LP7nMzB1Hr",
+								"expanded_url": "http://www.uie.com/brainsparks",
+								"display_url": "uie.com/brainsparks",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72567,
+				"friends_count": 1039,
+				"listed_count": 5172,
+				"created_at": "Fri Mar 09 21:39:41 +0000 2007",
+				"favourites_count": 988,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 57278,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497109249424502786/9ek1oIta.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497109249424502786/9ek1oIta.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/792442020858097664/x4wlpaJG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/792442020858097664/x4wlpaJG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/849101/1378255645",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 795725381663948800,
+			"quoted_status_id_str": "795725381663948800",
+			"quoted_status": {
+				"created_at": "Mon Nov 07 20:31:29 +0000 2016",
+				"id": 795725381663948800,
+				"id_str": "795725381663948800",
+				"text": "To better understand their first real-world project, students today created their first proto persona, Liz.… https://t.co/y88p33AAN7",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/y88p33AAN7",
+							"expanded_url": "https://twitter.com/i/web/status/795725381663948800",
+							"display_url": "twitter.com/i/web/status/7…",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1408609760,
+					"id_str": "1408609760",
+					"name": "Center Centre",
+					"screen_name": "CenterCentre",
+					"location": "Chattanooga, TN",
+					"description": "What if we created a school that prepared students for user experience (UX) design jobs? That’s what we’ve done. Join the future of UX.",
+					"url": "https://t.co/zIPECAlJp3",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/zIPECAlJp3",
+									"expanded_url": "http://centercentre.com",
+									"display_url": "centercentre.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3770,
+					"friends_count": 6,
+					"listed_count": 265,
+					"created_at": "Mon May 06 20:03:57 +0000 2013",
+					"favourites_count": 401,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1671,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "45C1C2",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441769323049127936/d0XUqwvm.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441769323049127936/d0XUqwvm.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/793903042844393472/91UM_C_B_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/793903042844393472/91UM_C_B_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1408609760/1478115454",
+					"profile_link_color": "9D3968",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 795725381663948800,
+		"quoted_status_id_str": "795725381663948800",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 21:16:32 +0000 2016",
+		"id": 795736716925513700,
+		"id_str": "795736716925513732",
+		"text": "New Blog Post: A Few Thoughts About... How the @getgrav Course Hub Can Help Change Your Teaching https://t.co/2X0kNH4xbf #GravEdu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GravEdu",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2X0kNH4xbf",
+					"expanded_url": "http://www.hibbittsdesign.org/blog/posts/2016-11-07-a-few-thoughts-about-how-the-grav-course-hub-can-help-change-your-teaching",
+					"display_url": "hibbittsdesign.org/blog/posts/201…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 650,
+			"listed_count": 190,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1840,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 21:10:00 +0000 2016",
+		"id": 795735076591976400,
+		"id_str": "795735076591976448",
+		"text": "Plotting next steps for Hibbitts Design to continue:\n✅ Creating sustainable open source software (esp for educators)\n✅ Designing in the open",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 650,
+			"listed_count": 190,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1840,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 04:36:09 +0000 2016",
+		"id": 795484962560479200,
+		"id_str": "795484962560479232",
+		"text": "@drubeli @BarbaraBerry @sarahsvoice @keroleenl @draggin @segelstrom Happy to share my experiences of using both sometime ☺",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drubeli",
+					"name": "David Rubeli",
+					"id": 17217620,
+					"id_str": "17217620",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "BarbaraBerry",
+					"name": "BarbaraBerry",
+					"id": 17501837,
+					"id_str": "17501837",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "sarahsvoice",
+					"name": "Sarah Louise Turner",
+					"id": 249390118,
+					"id_str": "249390118",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "keroleenl",
+					"name": "Keroleen",
+					"id": 887742962,
+					"id_str": "887742962",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "draggin",
+					"name": "jason toal",
+					"id": 5690792,
+					"id_str": "5690792",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"screen_name": "segelstrom",
+					"name": "Fabian Segelström",
+					"id": 65356282,
+					"id_str": "65356282",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 795469131009011700,
+		"in_reply_to_status_id_str": "795469131009011712",
+		"in_reply_to_user_id": 17217620,
+		"in_reply_to_user_id_str": "17217620",
+		"in_reply_to_screen_name": "drubeli",
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Educator/interaction designer creating better learning experiences for our connected world. Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJGjh6",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJGjh6",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 650,
+			"listed_count": 190,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1840,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 06 20:55:20 +0000 2016",
 		"id": 795368996295979000,
 		"id_str": "795368996295979008",
