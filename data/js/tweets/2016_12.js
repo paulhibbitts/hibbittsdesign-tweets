@@ -1,6 +1,1056 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 00:11:23 +0000 2016",
+		"id": 805565195166699500,
+		"id_str": "805565195166699520",
+		"text": "@btopro Might be over-engineering things🙂 I like the looks of h5p &amp; learning locker though... Canvas rubrics have been satisfactory so far.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "btopro",
+					"name": "Bryan ✻llendyke",
+					"id": 16847370,
+					"id_str": "16847370",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 805563293108727800,
+		"in_reply_to_status_id_str": "805563293108727809",
+		"in_reply_to_user_id": 16847370,
+		"in_reply_to_user_id_str": "16847370",
+		"in_reply_to_screen_name": "btopro",
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Exploring and building open [source] software for learning ecosystems Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJXU8E",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJXU8E",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 995,
+			"friends_count": 660,
+			"listed_count": 193,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1914,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4527,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 04 21:19:46 +0000 2016",
+		"id": 805522006120636400,
+		"id_str": "805522006120636416",
+		"text": "Marking #SFU CMPT-363 projects:\n✓Usability - can it be used?\n✓Usefulness - does it deliver value?\n✓Desirability - do people enjoy using it?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SFU",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Exploring and building open [source] software for learning ecosystems Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJXU8E",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJXU8E",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 995,
+			"friends_count": 660,
+			"listed_count": 193,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1914,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4527,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 04 18:59:30 +0000 2016",
+		"id": 805486706212290600,
+		"id_str": "805486706212290560",
+		"text": "RT @scottjenson: Neil Papworth, 24 yrs ago today, sent the first SMS\nhttps://t.co/LdUGjbttHU https://t.co/rjBmMQ6ezY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scottjenson",
+					"name": "Scott Jenson",
+					"id": 730373,
+					"id_str": "730373",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LdUGjbttHU",
+					"expanded_url": "https://en.wikipedia.org/wiki/Neil_Papworth",
+					"display_url": "en.wikipedia.org/wiki/Neil_Papw…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 805435047557742600,
+					"id_str": "805435047557742592",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy166ItUQAA2fwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy166ItUQAA2fwv.jpg",
+					"url": "https://t.co/rjBmMQ6ezY",
+					"display_url": "pic.twitter.com/rjBmMQ6ezY",
+					"expanded_url": "https://twitter.com/scottjenson/status/805436178841223168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 224,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 224,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 276,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 805436178841223200,
+					"source_status_id_str": "805436178841223168",
+					"source_user_id": 730373,
+					"source_user_id_str": "730373"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 805435047557742600,
+					"id_str": "805435047557742592",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy166ItUQAA2fwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy166ItUQAA2fwv.jpg",
+					"url": "https://t.co/rjBmMQ6ezY",
+					"display_url": "pic.twitter.com/rjBmMQ6ezY",
+					"expanded_url": "https://twitter.com/scottjenson/status/805436178841223168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 224,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 224,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 276,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 805436178841223200,
+					"source_status_id_str": "805436178841223168",
+					"source_user_id": 730373,
+					"source_user_id_str": "730373"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Exploring and building open [source] software for learning ecosystems Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJXU8E",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJXU8E",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 995,
+			"friends_count": 660,
+			"listed_count": 193,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1914,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4527,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 04 15:38:43 +0000 2016",
+			"id": 805436178841223200,
+			"id_str": "805436178841223168",
+			"text": "Neil Papworth, 24 yrs ago today, sent the first SMS\nhttps://t.co/LdUGjbttHU https://t.co/rjBmMQ6ezY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LdUGjbttHU",
+						"expanded_url": "https://en.wikipedia.org/wiki/Neil_Papworth",
+						"display_url": "en.wikipedia.org/wiki/Neil_Papw…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 805435047557742600,
+						"id_str": "805435047557742592",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy166ItUQAA2fwv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy166ItUQAA2fwv.jpg",
+						"url": "https://t.co/rjBmMQ6ezY",
+						"display_url": "pic.twitter.com/rjBmMQ6ezY",
+						"expanded_url": "https://twitter.com/scottjenson/status/805436178841223168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 224,
+								"h": 276,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 224,
+								"h": 276,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 224,
+								"h": 276,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 805435047557742600,
+						"id_str": "805435047557742592",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy166ItUQAA2fwv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy166ItUQAA2fwv.jpg",
+						"url": "https://t.co/rjBmMQ6ezY",
+						"display_url": "pic.twitter.com/rjBmMQ6ezY",
+						"expanded_url": "https://twitter.com/scottjenson/status/805436178841223168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 224,
+								"h": 276,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 224,
+								"h": 276,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 224,
+								"h": 276,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 730373,
+				"id_str": "730373",
+				"name": "Scott Jenson",
+				"screen_name": "scottjenson",
+				"location": "Palo Alto, CA",
+				"description": "Project Lead for Physical Web for Chrome (UX director in previous life (Apple, Symbian, frog design, Google))",
+				"url": "https://t.co/9t5yWEFUU7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9t5yWEFUU7",
+								"expanded_url": "http://www.jenson.org",
+								"display_url": "jenson.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12301,
+				"friends_count": 334,
+				"listed_count": 820,
+				"created_at": "Tue Jan 30 03:52:49 +0000 2007",
+				"favourites_count": 3166,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6030,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801642377488146432/_qi2s7gY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801642377488146432/_qi2s7gY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/730373/1479963840",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 04 00:42:54 +0000 2016",
+		"id": 805210739040358400,
+		"id_str": "805210739040358400",
+		"text": "RT @UBCHacks: Git workshop at #ubchacks @localhackday @MLHacks @GitHubEducation https://t.co/c8r5PUiccJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ubchacks",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UBCHacks",
+					"name": "UBC Hacks",
+					"id": 796580339690803200,
+					"id_str": "796580339690803200",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "Localhackday",
+					"name": "LocalHackDay Seattle",
+					"id": 43594414,
+					"id_str": "43594414",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "MLHacks",
+					"name": "Major League Hacking",
+					"id": 1674737485,
+					"id_str": "1674737485",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"screen_name": "GitHubEducation",
+					"name": "GitHub Education",
+					"id": 1943578656,
+					"id_str": "1943578656",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 805191412593532900,
+					"id_str": "805191412593532928",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/CyydUtvVIAA-B_d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyydUtvVIAA-B_d.jpg",
+					"url": "https://t.co/c8r5PUiccJ",
+					"display_url": "pic.twitter.com/c8r5PUiccJ",
+					"expanded_url": "https://twitter.com/UBCHacks/status/805191429819502593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 805191429819502600,
+					"source_status_id_str": "805191429819502593",
+					"source_user_id": 796580339690803200,
+					"source_user_id_str": "796580339690803200"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 805191412593532900,
+					"id_str": "805191412593532928",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/CyydUtvVIAA-B_d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyydUtvVIAA-B_d.jpg",
+					"url": "https://t.co/c8r5PUiccJ",
+					"display_url": "pic.twitter.com/c8r5PUiccJ",
+					"expanded_url": "https://twitter.com/UBCHacks/status/805191429819502593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 805191429819502600,
+					"source_status_id_str": "805191429819502593",
+					"source_user_id": 796580339690803200,
+					"source_user_id_str": "796580339690803200"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Exploring and building open [source] software for learning ecosystems Learning changes you. CMPT 363 Course Hub: https://t.co/W3rpoJXU8E",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W3rpoJXU8E",
+							"expanded_url": "http://bit.ly/363-163",
+							"display_url": "bit.ly/363-163",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 995,
+			"friends_count": 660,
+			"listed_count": 193,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1914,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4527,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 03 23:26:11 +0000 2016",
+			"id": 805191429819502600,
+			"id_str": "805191429819502593",
+			"text": "Git workshop at #ubchacks @localhackday @MLHacks @GitHubEducation https://t.co/c8r5PUiccJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ubchacks",
+						"indices": [
+							16,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Localhackday",
+						"name": "LocalHackDay Seattle",
+						"id": 43594414,
+						"id_str": "43594414",
+						"indices": [
+							26,
+							39
+						]
+					},
+					{
+						"screen_name": "MLHacks",
+						"name": "Major League Hacking",
+						"id": 1674737485,
+						"id_str": "1674737485",
+						"indices": [
+							40,
+							48
+						]
+					},
+					{
+						"screen_name": "GitHubEducation",
+						"name": "GitHub Education",
+						"id": 1943578656,
+						"id_str": "1943578656",
+						"indices": [
+							49,
+							65
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 805191412593532900,
+						"id_str": "805191412593532928",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/CyydUtvVIAA-B_d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyydUtvVIAA-B_d.jpg",
+						"url": "https://t.co/c8r5PUiccJ",
+						"display_url": "pic.twitter.com/c8r5PUiccJ",
+						"expanded_url": "https://twitter.com/UBCHacks/status/805191429819502593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 805191412593532900,
+						"id_str": "805191412593532928",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/CyydUtvVIAA-B_d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyydUtvVIAA-B_d.jpg",
+						"url": "https://t.co/c8r5PUiccJ",
+						"display_url": "pic.twitter.com/c8r5PUiccJ",
+						"expanded_url": "https://twitter.com/UBCHacks/status/805191429819502593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 796580339690803200,
+				"id_str": "796580339690803200",
+				"name": "UBC Hacks",
+				"screen_name": "UBCHacks",
+				"location": "Vancouver, British Columbia",
+				"description": "The University of British Columbia",
+				"url": "https://t.co/jl1JSUIeYC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jl1JSUIeYC",
+								"expanded_url": "http://ubchacks.me/",
+								"display_url": "ubchacks.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14,
+				"friends_count": 16,
+				"listed_count": 2,
+				"created_at": "Thu Nov 10 05:08:47 +0000 2016",
+				"favourites_count": 27,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803672515516076032/Wk6pAtNa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803672515516076032/Wk6pAtNa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/796580339690803200/1480445728",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 03 21:42:00 +0000 2016",
 		"id": 805165213804687400,
 		"id_str": "805165213804687360",
