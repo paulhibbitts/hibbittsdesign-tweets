@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 10 23:38:10 +0000 2016",
+		"id": 807731160251928600,
+		"id_str": "807731160251928576",
+		"text": "RT @ThePracticalDev: Here is the repo for our https://t.co/XXYycIc87V platform:\n\nhttps://t.co/2HZ7aq1EYr\n\nNo code yet, but issues are avail…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThePracticalDev",
+					"name": "The Practical Dev",
+					"id": 2735246778,
+					"id_str": "2735246778",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XXYycIc87V",
+					"expanded_url": "https://dev.to",
+					"display_url": "dev.to",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/2HZ7aq1EYr",
+					"expanded_url": "https://github.com/thepracticaldev/dev.to",
+					"display_url": "github.com/thepracticalde…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Exploring and building open [source] software for learning ecosystems and OER with the modern flat-file CMS @getgrav. Learning changes you.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 997,
+			"friends_count": 660,
+			"listed_count": 194,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1938,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 10 23:34:46 +0000 2016",
+			"id": 807730305553563600,
+			"id_str": "807730305553563649",
+			"text": "Here is the repo for our https://t.co/XXYycIc87V platform:\n\nhttps://t.co/2HZ7aq1EYr\n\nNo code yet, but issues are available for feedback.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XXYycIc87V",
+						"expanded_url": "https://dev.to",
+						"display_url": "dev.to",
+						"indices": [
+							25,
+							48
+						]
+					},
+					{
+						"url": "https://t.co/2HZ7aq1EYr",
+						"expanded_url": "https://github.com/thepracticaldev/dev.to",
+						"display_url": "github.com/thepracticalde…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2735246778,
+				"id_str": "2735246778",
+				"name": "The Practical Dev",
+				"screen_name": "ThePracticalDev",
+				"location": "",
+				"description": "Coding resources and commentary. Helping you become a better developer maybe. Created by @bendhalpern",
+				"url": "https://t.co/lhcCPPjs6o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lhcCPPjs6o",
+								"expanded_url": "http://dev.to",
+								"display_url": "dev.to",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89217,
+				"friends_count": 1963,
+				"listed_count": 1924,
+				"created_at": "Fri Aug 15 19:11:17 +0000 2014",
+				"favourites_count": 29124,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5188,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601385812760993793/2pxLSwZZ.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601385812760993793/2pxLSwZZ.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/729074483626151937/V8wcTT9F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/729074483626151937/V8wcTT9F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2735246778/1458157262",
+				"profile_link_color": "14BD7B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 09 23:00:00 +0000 2016",
 		"id": 807359170651385900,
 		"id_str": "807359170651385857",
