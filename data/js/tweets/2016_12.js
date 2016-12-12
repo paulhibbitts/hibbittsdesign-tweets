@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 22:10:29 +0000 2016",
+		"id": 808071481972228100,
+		"id_str": "808071481972228096",
+		"text": "RT @workergnome: Going through old papers my dad gave me, I found his map of the internet as of May 1973. \n\nThe entire internet. https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "workergnome",
+					"name": "David Newbury",
+					"id": 12659072,
+					"id_str": "12659072",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Exploring and building open [source] software for learning ecosystems and OER with the modern flat-file CMS @getgrav. Learning changes you.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 997,
+			"friends_count": 660,
+			"listed_count": 195,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1939,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 10 21:53:38 +0000 2016",
+			"id": 807704855276122100,
+			"id_str": "807704855276122114",
+			"text": "Going through old papers my dad gave me, I found his map of the internet as of May 1973. \n\nThe entire internet. https://t.co/0krvYoRGav",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 807704846635823100,
+						"id_str": "807704846635823105",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/CzWLR1MW8AExkeD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzWLR1MW8AExkeD.jpg",
+						"url": "https://t.co/0krvYoRGav",
+						"display_url": "pic.twitter.com/0krvYoRGav",
+						"expanded_url": "http://twitter.com/workergnome/status/807704855276122114/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 807704846635823100,
+						"id_str": "807704846635823105",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/CzWLR1MW8AExkeD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzWLR1MW8AExkeD.jpg",
+						"url": "https://t.co/0krvYoRGav",
+						"display_url": "pic.twitter.com/0krvYoRGav",
+						"expanded_url": "http://twitter.com/workergnome/status/807704855276122114/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12659072,
+				"id_str": "12659072",
+				"name": "David Newbury",
+				"screen_name": "workergnome",
+				"location": "Pittsburgh, PA",
+				"description": "Lead developer, Art Tracks, Carnegie Museum of Art.  Does weird stuff with computers. Would rather be on a boat.",
+				"url": "http://t.co/OqkWC425wi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OqkWC425wi",
+								"expanded_url": "http://www.workergnome.com",
+								"display_url": "workergnome.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1581,
+				"friends_count": 541,
+				"listed_count": 76,
+				"created_at": "Thu Jan 24 21:53:02 +0000 2008",
+				"favourites_count": 778,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1771,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F1E8E0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/8536990/temp_gnome.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/8536990/temp_gnome.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/137947165/David_the_Gnome_real_bigger_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/137947165/David_the_Gnome_real_bigger_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12659072/1459897474",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "83f591d18ca28d00",
+				"url": "https://api.twitter.com/1.1/geo/id/83f591d18ca28d00.json",
+				"place_type": "city",
+				"name": "Shaler Township",
+				"full_name": "Shaler Township, PA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-79.988653,
+								40.4784445
+							],
+							[
+								-79.9022372,
+								40.4784445
+							],
+							[
+								-79.9022372,
+								40.56368
+							],
+							[
+								-79.988653,
+								40.56368
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13711,
+			"favorite_count": 18759,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13711,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 11 16:56:49 +0000 2016",
+		"id": 807992545774997500,
+		"id_str": "807992545774997504",
+		"text": "RT @DaveThackeray: If you're contemplating creating an eBook, build it first as a mini website. Think mobile and UI. We don't all want PDF.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DaveThackeray",
+					"name": "Dave",
+					"id": 13151882,
+					"id_str": "13151882",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Exploring and building open [source] software for learning ecosystems and OER with the modern flat-file CMS @getgrav. Learning changes you.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 997,
+			"friends_count": 660,
+			"listed_count": 195,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1939,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1398200349",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 11 08:45:21 +0000 2016",
+			"id": 807868864079990800,
+			"id_str": "807868864079990784",
+			"text": "If you're contemplating creating an eBook, build it first as a mini website. Think mobile and UI. We don't all want PDF.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13151882,
+				"id_str": "13151882",
+				"name": "Dave",
+				"screen_name": "DaveThackeray",
+				"location": "United Kingdom",
+				"description": "Twisting tech to troubleshoot traditional traumas. Host of Thacknology. Let's get digital!",
+				"url": "https://t.co/b6WWNWxp9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b6WWNWxp9e",
+								"expanded_url": "https://www.linkedin.com/in/davethackeray",
+								"display_url": "linkedin.com/in/davethacker…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3450,
+				"friends_count": 57,
+				"listed_count": 332,
+				"created_at": "Wed Feb 06 10:14:40 +0000 2008",
+				"favourites_count": 2381,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 72956,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/698605894708432896/y8Ukl4pG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/698605894708432896/y8Ukl4pG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13151882/1450809815",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 10 23:38:10 +0000 2016",
 		"id": 807731160251928600,
 		"id_str": "807731160251928576",
