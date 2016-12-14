@@ -1,6 +1,1025 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 23:14:04 +0000 2016",
+		"id": 808812259870785500,
+		"id_str": "808812259870785536",
+		"text": "RT @getgrav: Big news! @gantry_fw now supports @getgrav ! Check out the details here: https://t.co/OJ0WWJv4a5 #gantry5 #grav #webdev",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gantry5",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "grav",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "webdev",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "gantry_fw",
+					"name": "Gantry Framework",
+					"id": 3485276114,
+					"id_str": "3485276114",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OJ0WWJv4a5",
+					"expanded_url": "http://gantry.org/blog/gantry-for-grav",
+					"display_url": "gantry.org/blog/gantry-fo…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Leveraging the @getgrav CMS as a Personal Open Platform in Education. Designing and building open [source] software for learning ecosystems.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1000,
+			"friends_count": 660,
+			"listed_count": 195,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1943,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1481589692",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 13 21:54:28 +0000 2016",
+			"id": 808792228751671300,
+			"id_str": "808792228751671296",
+			"text": "Big news! @gantry_fw now supports @getgrav ! Check out the details here: https://t.co/OJ0WWJv4a5 #gantry5 #grav #webdev",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gantry5",
+						"indices": [
+							97,
+							105
+						]
+					},
+					{
+						"text": "grav",
+						"indices": [
+							106,
+							111
+						]
+					},
+					{
+						"text": "webdev",
+						"indices": [
+							112,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gantry_fw",
+						"name": "Gantry Framework",
+						"id": 3485276114,
+						"id_str": "3485276114",
+						"indices": [
+							10,
+							20
+						]
+					},
+					{
+						"screen_name": "getgrav",
+						"name": "Grav",
+						"id": 2737573033,
+						"id_str": "2737573033",
+						"indices": [
+							34,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OJ0WWJv4a5",
+						"expanded_url": "http://gantry.org/blog/gantry-for-grav",
+						"display_url": "gantry.org/blog/gantry-fo…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2737573033,
+				"id_str": "2737573033",
+				"name": "Grav",
+				"screen_name": "getgrav",
+				"location": "Everywhere...",
+				"description": "A Modern Flat-File CMS.\r\nCrazy Fast, Ridiculously Easy, & Amazingly Powerful...",
+				"url": "http://t.co/WOPH9dC7XN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WOPH9dC7XN",
+								"expanded_url": "http://getgrav.org",
+								"display_url": "getgrav.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3689,
+				"friends_count": 1502,
+				"listed_count": 112,
+				"created_at": "Sat Aug 16 16:05:54 +0000 2014",
+				"favourites_count": 813,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1549,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/529127267394260992/W__oOPP5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/529127267394260992/W__oOPP5_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2737573033/1444679068",
+				"profile_link_color": "3BABE0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 13 21:37:47 +0000 2016",
+		"id": 808788029053599700,
+		"id_str": "808788029053599744",
+		"text": "RT @davidp_eCO: This is an important #oer puzzle piece highlighted by @cgreen @billmeinke Follow the link... https://t.co/vE4vIlU1ZX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer",
+					"indices": [
+						37,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidp_eCO",
+					"name": "David Porter",
+					"id": 753776437887275000,
+					"id_str": "753776437887275012",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "cgreen",
+					"name": "Cable Green",
+					"id": 821877,
+					"id_str": "821877",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"screen_name": "BillMeinke",
+					"name": "Bill Meinke",
+					"id": 345593357,
+					"id_str": "345593357",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vE4vIlU1ZX",
+					"expanded_url": "https://twitter.com/cgreen/status/806948103567839232",
+					"display_url": "twitter.com/cgreen/status/…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Leveraging the @getgrav CMS as a Personal Open Platform in Education. Designing and building open [source] software for learning ecosystems.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1000,
+			"friends_count": 660,
+			"listed_count": 195,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1943,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1481589692",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 13 21:18:27 +0000 2016",
+			"id": 808783166202937300,
+			"id_str": "808783166202937345",
+			"text": "This is an important #oer puzzle piece highlighted by @cgreen @billmeinke Follow the link... https://t.co/vE4vIlU1ZX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oer",
+						"indices": [
+							21,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cgreen",
+						"name": "Cable Green",
+						"id": 821877,
+						"id_str": "821877",
+						"indices": [
+							54,
+							61
+						]
+					},
+					{
+						"screen_name": "BillMeinke",
+						"name": "Bill Meinke",
+						"id": 345593357,
+						"id_str": "345593357",
+						"indices": [
+							62,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vE4vIlU1ZX",
+						"expanded_url": "https://twitter.com/cgreen/status/806948103567839232",
+						"display_url": "twitter.com/cgreen/status/…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 753776437887275000,
+				"id_str": "753776437887275012",
+				"name": "David Porter",
+				"screen_name": "davidp_eCO",
+				"location": "Toronto, Ontario",
+				"description": "CEO at eCampusOntario, starting September 12 2016.",
+				"url": "https://t.co/om3bT1kMyP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/om3bT1kMyP",
+								"expanded_url": "http://eCampusOntario.ca",
+								"display_url": "eCampusOntario.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 112,
+				"friends_count": 153,
+				"listed_count": 5,
+				"created_at": "Fri Jul 15 02:21:22 +0000 2016",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 112,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753785276862910464/6dLuGBFH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753785276862910464/6dLuGBFH_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 806948103567839200,
+			"quoted_status_id_str": "806948103567839232",
+			"quoted_status": {
+				"created_at": "Thu Dec 08 19:46:34 +0000 2016",
+				"id": 806948103567839200,
+				"id_str": "806948103567839232",
+				"text": "Technical Openness of #OER and Pressbooks. By: @billymeinke https://t.co/taiEyEmvcE",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OER",
+							"indices": [
+								22,
+								26
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "billymeinke",
+							"name": "BiỊỊy Meinke",
+							"id": 296003222,
+							"id_str": "296003222",
+							"indices": [
+								47,
+								59
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/taiEyEmvcE",
+							"expanded_url": "http://ow.ly/7XPI306WGLg",
+							"display_url": "ow.ly/7XPI306WGLg",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 821877,
+					"id_str": "821877",
+					"name": "Cable Green",
+					"screen_name": "cgreen",
+					"location": "Olympia, WA",
+					"description": "Director of Open Education @creativecommons",
+					"url": "http://t.co/g2evOIVtq1",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/g2evOIVtq1",
+									"expanded_url": "http://creativecommons.org",
+									"display_url": "creativecommons.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5366,
+					"friends_count": 905,
+					"listed_count": 368,
+					"created_at": "Thu Mar 08 14:43:22 +0000 2007",
+					"favourites_count": 2979,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 6338,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "DBDBDB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/269459808/by.large.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/269459808/by.large.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/677633997900521473/ziPnVm8L_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/677633997900521473/ziPnVm8L_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/821877/1400209755",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 10,
+				"favorite_count": 12,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 806948103567839200,
+		"quoted_status_id_str": "806948103567839232",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 13 18:54:01 +0000 2016",
+		"id": 808746817353453600,
+		"id_str": "808746817353453569",
+		"text": "RT @codeorg: Happy Birthday to Admiral Grace Hopper—one of the most important computer scientists ever. #CSforAll https://t.co/9L39WZf4YM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSforAll",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "codeorg",
+					"name": "Code.org",
+					"id": 850107536,
+					"id_str": "850107536",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9L39WZf4YM",
+					"expanded_url": "http://www.space.com/34885-grace-hopper-biography.html",
+					"display_url": "space.com/34885-grace-ho…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Leveraging the @getgrav CMS as a Personal Open Platform in Education. Designing and building open [source] software for learning ecosystems.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1000,
+			"friends_count": 660,
+			"listed_count": 195,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1943,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1481589692",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 09 14:30:03 +0000 2016",
+			"id": 807230835191468000,
+			"id_str": "807230835191468032",
+			"text": "Happy Birthday to Admiral Grace Hopper—one of the most important computer scientists ever. #CSforAll https://t.co/9L39WZf4YM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CSforAll",
+						"indices": [
+							91,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9L39WZf4YM",
+						"expanded_url": "http://www.space.com/34885-grace-hopper-biography.html",
+						"display_url": "space.com/34885-grace-ho…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 850107536,
+				"id_str": "850107536",
+				"name": "Code.org",
+				"screen_name": "codeorg",
+				"location": "",
+				"description": "http://t.co/rQdcoEyAx8 is a non-profit dedicated to exposing all students to computer science. Anybody can learn.",
+				"url": "http://code.org",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://code.org",
+								"expanded_url": null,
+								"indices": [
+									0,
+									15
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/rQdcoEyAx8",
+								"expanded_url": "http://Code.org",
+								"display_url": "Code.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 717763,
+				"friends_count": 248,
+				"listed_count": 3938,
+				"created_at": "Thu Sep 27 23:10:20 +0000 2012",
+				"favourites_count": 7023,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4424,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3CAFBE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/562295957383954432/HznhvglX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/562295957383954432/HznhvglX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/850107536/1402432308",
+				"profile_link_color": "3CAFBE",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 214,
+			"favorite_count": 286,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 214,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 13 17:48:23 +0000 2016",
+		"id": 808730300305915900,
+		"id_str": "808730300305915904",
+		"text": "What's a Personal Open Platform?\n✓Under one's full control\n✓Platform-agnostic content\n✓Public &amp; private collaboration\n✓Flexible + Extensible",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Leveraging the @getgrav CMS as a Personal Open Platform in Education. Designing and building open [source] software for learning ecosystems.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1000,
+			"friends_count": 660,
+			"listed_count": 195,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 1943,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1481589692",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 13 00:06:13 +0000 2016",
 		"id": 808462996791955500,
 		"id_str": "808462996791955456",
