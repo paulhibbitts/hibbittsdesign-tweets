@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 02 18:12:51 +0000 2017",
+		"id": 827218236689100800,
+		"id_str": "827218236689100801",
+		"text": "RT @drchuck: I was in a mood to write about https://t.co/nLvGDjP80R this morning - What is Tsugi? https://t.co/86bdteOnF1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drchuck",
+					"name": "drchuck",
+					"id": 10185562,
+					"id_str": "10185562",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nLvGDjP80R",
+					"expanded_url": "http://www.tsugi.org",
+					"display_url": "tsugi.org",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/86bdteOnF1",
+					"expanded_url": "http://www.dr-chuck.com/csev-blog/2017/02/what-is-tsugi/",
+					"display_url": "dr-chuck.com/csev-blog/2017…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Leveraging the @getgrav CMS as a Personal Open Platform in Education. Designing and building open [source] software for learning ecosystems.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016,
+			"friends_count": 678,
+			"listed_count": 191,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2035,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4741,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1481589692",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 02 16:55:00 +0000 2017",
+			"id": 827198645292392400,
+			"id_str": "827198645292392449",
+			"text": "I was in a mood to write about https://t.co/nLvGDjP80R this morning - What is Tsugi? https://t.co/86bdteOnF1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nLvGDjP80R",
+						"expanded_url": "http://www.tsugi.org",
+						"display_url": "tsugi.org",
+						"indices": [
+							31,
+							54
+						]
+					},
+					{
+						"url": "https://t.co/86bdteOnF1",
+						"expanded_url": "http://www.dr-chuck.com/csev-blog/2017/02/what-is-tsugi/",
+						"display_url": "dr-chuck.com/csev-blog/2017…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10185562,
+				"id_str": "10185562",
+				"name": "drchuck",
+				"screen_name": "drchuck",
+				"location": "iPhone: 37.868347,-122.255997",
+				"description": "I am on the faculty @UMSI, I work on the open source @sakaiproject, and I teach free online Python courses on Coursera  https://t.co/T3NbCOz8FR",
+				"url": "http://t.co/5szJLzBM4S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5szJLzBM4S",
+								"expanded_url": "http://www.dr-chuck.com",
+								"display_url": "dr-chuck.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/T3NbCOz8FR",
+								"expanded_url": "https://www.coursera.org/learn/python",
+								"display_url": "coursera.org/learn/python",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14918,
+				"friends_count": 657,
+				"listed_count": 677,
+				"created_at": "Mon Nov 12 16:33:12 +0000 2007",
+				"favourites_count": 819,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20919,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1396181322/new-square-pic_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396181322/new-square-pic_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10185562/1392143368",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 02 05:16:13 +0000 2017",
+		"id": 827022791312564200,
+		"id_str": "827022791312564225",
+		"text": "RT @kimgoodwin: Before you grumble about whether design school grads are industry-ready, consider that education is meant to produce citize…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kimgoodwin",
+					"name": "Kim Goodwin",
+					"id": 16295946,
+					"id_str": "16295946",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Leveraging the @getgrav CMS as a Personal Open Platform in Education. Designing and building open [source] software for learning ecosystems.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016,
+			"friends_count": 678,
+			"listed_count": 191,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2035,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4741,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1481589692",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 01 16:02:05 +0000 2017",
+			"id": 826822943338491900,
+			"id_str": "826822943338491904",
+			"text": "Before you grumble about whether design school grads are industry-ready, consider that education is meant to produce citizens, not workers.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16295946,
+				"id_str": "16295946",
+				"name": "Kim Goodwin",
+				"screen_name": "kimgoodwin",
+				"location": "",
+				"description": "Author of Designing for the Digital Age. VP Product & UX @ PatientsLikeMe; formerly @ Cooper. Consultant. Researcher. Designer. Teacher. Wildlife photographer.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12166,
+				"friends_count": 350,
+				"listed_count": 858,
+				"created_at": "Mon Sep 15 14:14:19 +0000 2008",
+				"favourites_count": 536,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2960,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "39557F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3204519/PA070064.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3204519/PA070064.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756436364929994752/ADL0_wac_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756436364929994752/ADL0_wac_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16295946/1417028646",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 01 22:56:27 +0000 2017",
 		"id": 826927219633066000,
 		"id_str": "826927219633065984",
