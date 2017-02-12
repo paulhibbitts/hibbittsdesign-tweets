@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 11 20:12:51 +0000 2017",
+		"id": 830509925755293700,
+		"id_str": "830509925755293697",
+		"text": "RT @yaledailynews: BREAKING: CALHOUN COLLEGE TO BE RENAMED FOR GRACE MURRAY HOPPER GRD '34  https://t.co/SZAn8mW7iP https://t.co/rJtqA5dRy4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yaledailynews",
+					"name": "Yale Daily News",
+					"id": 39114551,
+					"id_str": "39114551",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SZAn8mW7iP",
+					"expanded_url": "http://yaledailynews.com/blog/2017/02/11/calhoun-college-renamed",
+					"display_url": "yaledailynews.com/blog/2017/02/1…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 830491245025886200,
+					"id_str": "830491245025886210",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/C4Z_YyDXAAIN97m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4Z_YyDXAAIN97m.jpg",
+					"url": "https://t.co/rJtqA5dRy4",
+					"display_url": "pic.twitter.com/rJtqA5dRy4",
+					"expanded_url": "https://twitter.com/yaledailynews/status/830491256765677574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1394,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 585,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 830491256765677600,
+					"source_status_id_str": "830491256765677574",
+					"source_user_id": 39114551,
+					"source_user_id_str": "39114551"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 830491245025886200,
+					"id_str": "830491245025886210",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/C4Z_YyDXAAIN97m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4Z_YyDXAAIN97m.jpg",
+					"url": "https://t.co/rJtqA5dRy4",
+					"display_url": "pic.twitter.com/rJtqA5dRy4",
+					"expanded_url": "https://twitter.com/yaledailynews/status/830491256765677574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1394,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 585,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 830491256765677600,
+					"source_status_id_str": "830491256765677574",
+					"source_user_id": 39114551,
+					"source_user_id_str": "39114551"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Leveraging the @getgrav CMS as a Personal Open Platform in Education. Designing and building open [source] software for learning ecosystems.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1020,
+			"friends_count": 682,
+			"listed_count": 191,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2060,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1481589692",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 11 18:58:40 +0000 2017",
+			"id": 830491256765677600,
+			"id_str": "830491256765677574",
+			"text": "BREAKING: CALHOUN COLLEGE TO BE RENAMED FOR GRACE MURRAY HOPPER GRD '34  https://t.co/SZAn8mW7iP https://t.co/rJtqA5dRy4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SZAn8mW7iP",
+						"expanded_url": "http://yaledailynews.com/blog/2017/02/11/calhoun-college-renamed",
+						"display_url": "yaledailynews.com/blog/2017/02/1…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 830491245025886200,
+						"id_str": "830491245025886210",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C4Z_YyDXAAIN97m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4Z_YyDXAAIN97m.jpg",
+						"url": "https://t.co/rJtqA5dRy4",
+						"display_url": "pic.twitter.com/rJtqA5dRy4",
+						"expanded_url": "https://twitter.com/yaledailynews/status/830491256765677574/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1394,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 332,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 585,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 830491245025886200,
+						"id_str": "830491245025886210",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C4Z_YyDXAAIN97m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4Z_YyDXAAIN97m.jpg",
+						"url": "https://t.co/rJtqA5dRy4",
+						"display_url": "pic.twitter.com/rJtqA5dRy4",
+						"expanded_url": "https://twitter.com/yaledailynews/status/830491256765677574/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1394,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 332,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 585,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39114551,
+				"id_str": "39114551",
+				"name": "Yale Daily News",
+				"screen_name": "yaledailynews",
+				"location": "202 York St.",
+				"description": "The Oldest College Daily newspaper since 1878, via @Rebecca_Karabus and @jon_victor_",
+				"url": "http://t.co/dCVywRSFRV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dCVywRSFRV",
+								"expanded_url": "http://yaledailynews.com",
+								"display_url": "yaledailynews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22224,
+				"friends_count": 411,
+				"listed_count": 596,
+				"created_at": "Sun May 10 21:23:48 +0000 2009",
+				"favourites_count": 709,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9185,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/78620928/ydn_twitter.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/78620928/ydn_twitter.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000731684298/cb1f11945ceb1d69d0d7a4a39c98fd09_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000731684298/cb1f11945ceb1d69d0d7a4a39c98fd09_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39114551/1416790375",
+				"profile_link_color": "005681",
+				"profile_sidebar_border_color": "A5B8C7",
+				"profile_sidebar_fill_color": "D6D6D6",
+				"profile_text_color": "242424",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "795003fb11ee9829",
+				"url": "https://api.twitter.com/1.1/geo/id/795003fb11ee9829.json",
+				"place_type": "city",
+				"name": "New Haven",
+				"full_name": "New Haven, CT",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-72.998069,
+								41.246404
+							],
+							[
+								-72.860248,
+								41.246404
+							],
+							[
+								-72.860248,
+								41.350384
+							],
+							[
+								-72.998069,
+								41.350384
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 817,
+			"favorite_count": 1119,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 817,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 11 15:48:23 +0000 2017",
+		"id": 830443373861298200,
+		"id_str": "830443373861298177",
+		"text": "RT @eCampusOntario: Ontario's First Open Education Summit held on March 27, 2017 | Submit your application to attend https://t.co/cJhO4rdaT…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eCampusOntario",
+					"name": "eCampusOntario",
+					"id": 3429881050,
+					"id_str": "3429881050",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Leveraging the @getgrav CMS as a Personal Open Platform in Education. Designing and building open [source] software for learning ecosystems.",
+			"url": "https://t.co/9eojXoxro9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoxro9",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1020,
+			"friends_count": 682,
+			"listed_count": 191,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2060,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1481589692",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 10 19:15:01 +0000 2017",
+			"id": 830132986070855700,
+			"id_str": "830132986070855680",
+			"text": "Ontario's First Open Education Summit held on March 27, 2017 | Submit your application to attend… https://t.co/P43kdINWv5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P43kdINWv5",
+						"expanded_url": "https://twitter.com/i/web/status/830132986070855680",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3429881050,
+				"id_str": "3429881050",
+				"name": "eCampusOntario",
+				"screen_name": "eCampusOntario",
+				"location": "Toronto, Ontario",
+				"description": "eCampusOntario is a not-for-profit organization whose membership is composed of all publicly-funded colleges and universities in Ontario.",
+				"url": "http://t.co/dEN72u1xNj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dEN72u1xNj",
+								"expanded_url": "http://www.ecampusontario.ca",
+								"display_url": "ecampusontario.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 567,
+				"friends_count": 271,
+				"listed_count": 12,
+				"created_at": "Tue Aug 18 12:56:24 +0000 2015",
+				"favourites_count": 98,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 481,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/649207724601835520/kOfLFjks_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/649207724601835520/kOfLFjks_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3429881050/1485199519",
+				"profile_link_color": "046D8B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 10 21:08:03 +0000 2017",
 		"id": 830161430548590600,
 		"id_str": "830161430548590592",
