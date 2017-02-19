@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 18 21:31:48 +0000 2017",
+		"id": 833066511824597000,
+		"id_str": "833066511824596992",
+		"text": "RT @Abby_the_IA: \"Domain is context, content is expression\" -@carriehd #wiad17 https://t.co/qpRGn7NeQN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wiad17",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Abby_the_IA",
+					"name": "Abby Covert",
+					"id": 14147604,
+					"id_str": "14147604",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "carriehd",
+					"name": "Carrie Hane",
+					"id": 19036294,
+					"id_str": "19036294",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832987345460670500,
+					"id_str": "832987345460670464",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/C49dk8yUMAAz9Hv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C49dk8yUMAAz9Hv.jpg",
+					"url": "https://t.co/qpRGn7NeQN",
+					"display_url": "pic.twitter.com/qpRGn7NeQN",
+					"expanded_url": "https://twitter.com/Abby_the_IA/status/832987356928040960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832987356928041000,
+					"source_status_id_str": "832987356928040960",
+					"source_user_id": 14147604,
+					"source_user_id_str": "14147604"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832987345460670500,
+					"id_str": "832987345460670464",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/C49dk8yUMAAz9Hv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C49dk8yUMAAz9Hv.jpg",
+					"url": "https://t.co/qpRGn7NeQN",
+					"display_url": "pic.twitter.com/qpRGn7NeQN",
+					"expanded_url": "https://twitter.com/Abby_the_IA/status/832987356928040960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832987356928041000,
+					"source_status_id_str": "832987356928040960",
+					"source_user_id": 14147604,
+					"source_user_id_str": "14147604"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1028,
+			"friends_count": 683,
+			"listed_count": 191,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2082,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4831,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1481589692",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 18 16:17:16 +0000 2017",
+			"id": 832987356928041000,
+			"id_str": "832987356928040960",
+			"text": "\"Domain is context, content is expression\" -@carriehd #wiad17 https://t.co/qpRGn7NeQN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wiad17",
+						"indices": [
+							54,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "carriehd",
+						"name": "Carrie Hane",
+						"id": 19036294,
+						"id_str": "19036294",
+						"indices": [
+							44,
+							53
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 832987345460670500,
+						"id_str": "832987345460670464",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C49dk8yUMAAz9Hv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C49dk8yUMAAz9Hv.jpg",
+						"url": "https://t.co/qpRGn7NeQN",
+						"display_url": "pic.twitter.com/qpRGn7NeQN",
+						"expanded_url": "https://twitter.com/Abby_the_IA/status/832987356928040960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832987345460670500,
+						"id_str": "832987345460670464",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C49dk8yUMAAz9Hv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C49dk8yUMAAz9Hv.jpg",
+						"url": "https://t.co/qpRGn7NeQN",
+						"display_url": "pic.twitter.com/qpRGn7NeQN",
+						"expanded_url": "https://twitter.com/Abby_the_IA/status/832987356928040960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14147604,
+				"id_str": "14147604",
+				"name": "Abby Covert",
+				"screen_name": "Abby_the_IA",
+				"location": "",
+				"description": "Information Architect || Teacher @SVAPOD || Co-founder @WorldIADay || Author of How to Make Sense of Any Mess || I make the unclear, be clear.",
+				"url": "https://t.co/unqbHzGrAt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/unqbHzGrAt",
+								"expanded_url": "http://www.abbytheia.com",
+								"display_url": "abbytheia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16923,
+				"friends_count": 3460,
+				"listed_count": 1168,
+				"created_at": "Fri Mar 14 16:13:53 +0000 2008",
+				"favourites_count": 2654,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/114222176/x27c147df6b645c45ba0b6562c42ed99.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/114222176/x27c147df6b645c45ba0b6562c42ed99.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/529308861438517249/AetlMaOJ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/529308861438517249/AetlMaOJ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14147604/1415031950",
+				"profile_link_color": "EB0E0E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01fbe706f872cb32",
+				"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+				"place_type": "city",
+				"name": "Washington",
+				"full_name": "Washington, DC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.119401,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.9953797
+							],
+							[
+								-77.119401,
+								38.9953797
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 17 22:24:07 +0000 2017",
 		"id": 832717290692939800,
 		"id_str": "832717290692939777",
