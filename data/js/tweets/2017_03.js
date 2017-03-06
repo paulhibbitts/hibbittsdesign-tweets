@@ -1,6 +1,955 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 05 20:07:53 +0000 2017",
+		"id": 838481211404111900,
+		"id_str": "838481211404111872",
+		"text": "I think today is the day that my @getgrav CMS ePortfolio Blog with Git Sync skeleton package is finally ready for early release🙌",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 693,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2135,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 05 19:57:36 +0000 2017",
+		"id": 838478623598239700,
+		"id_str": "838478623598239744",
+		"text": "RT @Kelchup: This thread. I was surprised at designers defending their title. Your value isn't in having total control over the design. htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kelchup",
+					"name": "Kelsey Thomson",
+					"id": 86259775,
+					"id_str": "86259775",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 693,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2135,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 19:55:54 +0000 2017",
+			"id": 838478194369912800,
+			"id_str": "838478194369912832",
+			"text": "This thread. I was surprised at designers defending their title. Your value isn't in having total control over the… https://t.co/PO2LOJiuzH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PO2LOJiuzH",
+						"expanded_url": "https://twitter.com/i/web/status/838478194369912832",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86259775,
+				"id_str": "86259775",
+				"name": "Kelsey Thomson",
+				"screen_name": "Kelchup",
+				"location": "Wellington City, New Zealand",
+				"description": "User Experience Designer & Chief Botanist  @ProvokeZoo, co-organiser of UX Wlg Meetup, lover of music, books, games, coffee, design, humans, craft & nature~",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 800,
+				"friends_count": 781,
+				"listed_count": 38,
+				"created_at": "Fri Oct 30 07:14:24 +0000 2009",
+				"favourites_count": 5811,
+				"utc_offset": 46800,
+				"time_zone": "Wellington",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4829,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/796911543/631f32ec7d00e01c3d9a277f5d0387f3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/796911543/631f32ec7d00e01c3d9a277f5d0387f3.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836160298100744192/DAyaQZfx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836160298100744192/DAyaQZfx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86259775/1486453617",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 838468359733805000,
+			"quoted_status_id_str": "838468359733805056",
+			"quoted_status": {
+				"created_at": "Sun Mar 05 19:16:49 +0000 2017",
+				"id": 838468359733805000,
+				"id_str": "838468359733805056",
+				"text": "1/ I learned something interesting while apparently upsetting people with what I thought was a simple, non-controversial tweet.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 849101,
+					"id_str": "849101",
+					"name": "Jared Spool",
+					"screen_name": "jmspool",
+					"location": "42.635976,-71.164046",
+					"description": "Exploring the boundaries of User Experience and United's Customer Service. Founder @UIE, Co-founder @CenterCentre.\nThank you for encouraging my behavior!",
+					"url": "http://t.co/LP7nMzB1Hr",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/LP7nMzB1Hr",
+									"expanded_url": "http://www.uie.com/brainsparks",
+									"display_url": "uie.com/brainsparks",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 75034,
+					"friends_count": 1104,
+					"listed_count": 5269,
+					"created_at": "Fri Mar 09 21:39:41 +0000 2007",
+					"favourites_count": 980,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 61886,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497109249424502786/9ek1oIta.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497109249424502786/9ek1oIta.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/792442020858097664/x4wlpaJG_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/792442020858097664/x4wlpaJG_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/849101/1378255645",
+					"profile_link_color": "0000FF",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E0FF92",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 8,
+				"favorite_count": 44,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 838468359733805000,
+		"quoted_status_id_str": "838468359733805056",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 05 19:50:25 +0000 2017",
+		"id": 838476816188780500,
+		"id_str": "838476816188780544",
+		"text": "RT @GameGodde55: Excited to co-present in the #SXSWedu panel #HitRefresh Evolving Computer Science Instruction w/ @drchuck @dhawalhshah &amp; C…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SXSWedu",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "HitRefresh",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GameGodde55",
+					"name": "Kara Behnke",
+					"id": 22236779,
+					"id_str": "22236779",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "drchuck",
+					"name": "drchuck",
+					"id": 10185562,
+					"id_str": "10185562",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"screen_name": "dhawalhshah",
+					"name": "Dhawal Shah",
+					"id": 14106122,
+					"id_str": "14106122",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 693,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2135,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 19:45:50 +0000 2017",
+			"id": 838475661442498600,
+			"id_str": "838475661442498560",
+			"text": "Excited to co-present in the #SXSWedu panel #HitRefresh Evolving Computer Science Instruction w/ @drchuck @dhawalhshah &amp; Christine Alvarado!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SXSWedu",
+						"indices": [
+							29,
+							37
+						]
+					},
+					{
+						"text": "HitRefresh",
+						"indices": [
+							44,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "drchuck",
+						"name": "drchuck",
+						"id": 10185562,
+						"id_str": "10185562",
+						"indices": [
+							97,
+							105
+						]
+					},
+					{
+						"screen_name": "dhawalhshah",
+						"name": "Dhawal Shah",
+						"id": 14106122,
+						"id_str": "14106122",
+						"indices": [
+							106,
+							118
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22236779,
+				"id_str": "22236779",
+				"name": "Kara Behnke",
+				"screen_name": "GameGodde55",
+				"location": "Mountain View, CA",
+				"description": "My PhD research investigated #gamification in #CS education. I currently work as a Teaching & Learning Specialist for @Coursera.",
+				"url": "https://t.co/Y43tLrtQUP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y43tLrtQUP",
+								"expanded_url": "http://karabehnke.com",
+								"display_url": "karabehnke.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 582,
+				"friends_count": 950,
+				"listed_count": 61,
+				"created_at": "Sat Feb 28 06:59:27 +0000 2009",
+				"favourites_count": 104,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 822,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707361852657827842/e-SpK2lu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707361852657827842/e-SpK2lu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22236779/1358971866",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 05 16:06:29 +0000 2017",
+		"id": 838420459913801700,
+		"id_str": "838420459913801731",
+		"text": "@m_andrasch Thanks for your kind words and sharing news of this project! Comments/suggestions more than welcome.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "m_andrasch",
+					"name": "Matthias Andrasch",
+					"id": 272852686,
+					"id_str": "272852686",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 838365584731570200,
+		"in_reply_to_status_id_str": "838365584731570176",
+		"in_reply_to_user_id": 272852686,
+		"in_reply_to_user_id_str": "272852686",
+		"in_reply_to_screen_name": "m_andrasch",
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 693,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2135,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 05 03:24:05 +0000 2017",
+		"id": 838228596846047200,
+		"id_str": "838228596846047232",
+		"text": "RT @trilbymedia: Check out our new Flex Directory plugin. Manage large sets of data with CRUD operations support and beautiful UI! - https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "trilbymedia",
+					"name": "Trilby Media",
+					"id": 802226211971858400,
+					"id_str": "802226211971858433",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 693,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2135,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 01:49:54 +0000 2017",
+			"id": 838204895098331100,
+			"id_str": "838204895098331136",
+			"text": "Check out our new Flex Directory plugin. Manage large sets of data with CRUD operations support and beautiful UI! - https://t.co/zt6uGthJlC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zt6uGthJlC",
+						"expanded_url": "https://github.com/trilbymedia/grav-plugin-flex-directory",
+						"display_url": "github.com/trilbymedia/gr…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 802226211971858400,
+				"id_str": "802226211971858433",
+				"name": "Trilby Media",
+				"screen_name": "trilbymedia",
+				"location": "Everywhere, USA",
+				"description": "Trilby Media specializes in custom development and professional services for Grav CMS.",
+				"url": "https://t.co/GdPC8RE5yS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GdPC8RE5yS",
+								"expanded_url": "http://trilby.media",
+								"display_url": "trilby.media",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26,
+				"friends_count": 11,
+				"listed_count": 1,
+				"created_at": "Fri Nov 25 19:03:28 +0000 2016",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/812037026140880896/8BeR5ByN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/812037026140880896/8BeR5ByN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/802226211971858433/1480113052",
+				"profile_link_color": "2F5498",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 04 00:33:40 +0000 2017",
 		"id": 837823322381430800,
 		"id_str": "837823322381430784",
