@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 11 19:05:29 +0000 2017",
+		"id": 840639833332568000,
+		"id_str": "840639833332568065",
+		"text": "RT @ehbeattie: I love this idea! #yyj #library #books https://t.co/82r73uu8j1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yyj",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "library",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "books",
+					"indices": [
+						47,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehbeattie",
+					"name": "Erin Beattie",
+					"id": 1222070773,
+					"id_str": "1222070773",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/82r73uu8j1",
+					"expanded_url": "https://twitter.com/VicPlacemaking/status/840625482173300736",
+					"display_url": "twitter.com/VicPlacemaking…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1039,
+			"friends_count": 693,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2140,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 11 18:57:01 +0000 2017",
+			"id": 840637705075609600,
+			"id_str": "840637705075609601",
+			"text": "I love this idea! #yyj #library #books https://t.co/82r73uu8j1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "yyj",
+						"indices": [
+							18,
+							22
+						]
+					},
+					{
+						"text": "library",
+						"indices": [
+							23,
+							31
+						]
+					},
+					{
+						"text": "books",
+						"indices": [
+							32,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/82r73uu8j1",
+						"expanded_url": "https://twitter.com/VicPlacemaking/status/840625482173300736",
+						"display_url": "twitter.com/VicPlacemaking…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1222070773,
+				"id_str": "1222070773",
+				"name": "Erin Beattie",
+				"screen_name": "ehbeattie",
+				"location": "Victoria, British Columbia",
+				"description": "Social media optimist, master's student @RoyalRoads and Digital Media Strategist @BCcampus",
+				"url": "https://t.co/nyLldJghwi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nyLldJghwi",
+								"expanded_url": "https://www.linkedin.com/in/erinbeattie",
+								"display_url": "linkedin.com/in/erinbeattie",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 517,
+				"friends_count": 727,
+				"listed_count": 125,
+				"created_at": "Tue Feb 26 15:12:02 +0000 2013",
+				"favourites_count": 2262,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3769,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/463679573331177473/ORW8X6Jl.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/463679573331177473/ORW8X6Jl.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836648117097250816/UDEj1DfO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836648117097250816/UDEj1DfO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1222070773/1465757500",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 840625482173300700,
+			"quoted_status_id_str": "840625482173300736",
+			"quoted_status": {
+				"created_at": "Sat Mar 11 18:08:27 +0000 2017",
+				"id": 840625482173300700,
+				"id_str": "840625482173300736",
+				"text": "And here’s the pic: @timescolonist news boxes we are repurposing as Little Free Libraries, with project lead… https://t.co/6HsJiYcXAT",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "timescolonist",
+							"name": "Times Colonist",
+							"id": 16182069,
+							"id_str": "16182069",
+							"indices": [
+								20,
+								34
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/6HsJiYcXAT",
+							"expanded_url": "https://twitter.com/i/web/status/840625482173300736",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2940035485,
+					"id_str": "2940035485",
+					"name": "Victoria Placemaking",
+					"screen_name": "VicPlacemaking",
+					"location": "Victoria BC Canada",
+					"description": "Greater Victoria Placemaking Network - citizens promoting creative & healthy public spaces & streets",
+					"url": "https://t.co/yDW7v3WULx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/yDW7v3WULx",
+									"expanded_url": "http://VictoriaPlacemaking.ca",
+									"display_url": "VictoriaPlacemaking.ca",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1951,
+					"friends_count": 1332,
+					"listed_count": 106,
+					"created_at": "Mon Dec 22 21:39:39 +0000 2014",
+					"favourites_count": 2993,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 5104,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/726819722621120512/nqiWTlQE_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/726819722621120512/nqiWTlQE_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940035485/1462122149",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 840625482173300700,
+		"quoted_status_id_str": "840625482173300736",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 10 21:28:03 +0000 2017",
 		"id": 840313325724475400,
 		"id_str": "840313325724475392",
