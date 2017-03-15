@@ -1,6 +1,1931 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 22:18:42 +0000 2017",
+		"id": 841775621990633500,
+		"id_str": "841775621990633472",
+		"text": "RT @clintlalonde: Archive of today's EdTech Demo of @elmsln with @btopro now posted https://t.co/jUqAKUSfhs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clintlalonde",
+					"name": "Clint Lalonde",
+					"id": 12991032,
+					"id_str": "12991032",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "elmsln",
+					"name": "✻ ELMS:LN ✻",
+					"id": 236846178,
+					"id_str": "236846178",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"screen_name": "btopro",
+					"name": "Bryan ✻llendyke",
+					"id": 16847370,
+					"id_str": "16847370",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jUqAKUSfhs",
+					"expanded_url": "http://bit.ly/2lw4kaa",
+					"display_url": "bit.ly/2lw4kaa",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 14 20:53:43 +0000 2017",
+			"id": 841754235175759900,
+			"id_str": "841754235175759872",
+			"text": "Archive of today's EdTech Demo of @elmsln with @btopro now posted https://t.co/jUqAKUSfhs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "elmsln",
+						"name": "✻ ELMS:LN ✻",
+						"id": 236846178,
+						"id_str": "236846178",
+						"indices": [
+							34,
+							41
+						]
+					},
+					{
+						"screen_name": "btopro",
+						"name": "Bryan ✻llendyke",
+						"id": 16847370,
+						"id_str": "16847370",
+						"indices": [
+							47,
+							54
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jUqAKUSfhs",
+						"expanded_url": "http://bit.ly/2lw4kaa",
+						"display_url": "bit.ly/2lw4kaa",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12991032,
+				"id_str": "12991032",
+				"name": "Clint Lalonde",
+				"screen_name": "clintlalonde",
+				"location": "Victoria, BC, Canada",
+				"description": "Network learning, web hacking, bike riding, #VWFC #CanMNT loving Dad. Open education, @cc_canada, @RRUEduStudies Faculty, EdTech Manager @BCcampus",
+				"url": "http://t.co/jOF9eZxqXD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jOF9eZxqXD",
+								"expanded_url": "http://clintlalonde.net",
+								"display_url": "clintlalonde.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3106,
+				"friends_count": 1935,
+				"listed_count": 290,
+				"created_at": "Sat Feb 02 21:31:56 +0000 2008",
+				"favourites_count": 4782,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23556,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806542840595496960/1zdaDcHP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806542840595496960/1zdaDcHP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12991032/1455755846",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 21:47:57 +0000 2017",
+		"id": 841767885223555100,
+		"id_str": "841767885223555072",
+		"text": "Here's a workflow visualization of the Grav Learn2 with Git Sync skeleton package, suitable for collaborative #OER… https://t.co/fDeMXlKm8U",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						110,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fDeMXlKm8U",
+					"expanded_url": "https://twitter.com/i/web/status/841767885223555072",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 841757141719433200,
+		"in_reply_to_status_id_str": "841757141719433216",
+		"in_reply_to_user_id": 15949844,
+		"in_reply_to_user_id_str": "15949844",
+		"in_reply_to_screen_name": "hibbittsdesign",
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 21:05:16 +0000 2017",
+		"id": 841757141719433200,
+		"id_str": "841757141719433216",
+		"text": "So just does @getgrav Learn2 with Git Sync give you? &lt; 2 min.setup for open and collab docs🙌 https://t.co/Jaq8LKlXVB https://t.co/wpVspi2ml2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Jaq8LKlXVB",
+					"expanded_url": "https://www.youtube.com/watch?v=aO3CW0yc4_Y",
+					"display_url": "youtube.com/watch?v=aO3CW0…",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/wpVspi2ml2",
+					"expanded_url": "https://github.com/hibbitts-design/grav-skeleton-learn2-git-sync-site",
+					"display_url": "github.com/hibbitts-desig…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 18:58:43 +0000 2017",
+		"id": 841725295627448300,
+		"id_str": "841725295627448320",
+		"text": "RT @getcapi: @hibbittsdesign @getgrav Thanks! Grav is my favorite new CMS and Git Sync opens open many possibilities for distributed conten…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getcapi",
+					"name": "Steve Tsiopanos",
+					"id": 4834061267,
+					"id_str": "4834061267",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "hibbittsdesign",
+					"name": "Hibbitts Design",
+					"id": 15949844,
+					"id_str": "15949844",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 14 18:34:39 +0000 2017",
+			"id": 841719238373052400,
+			"id_str": "841719238373052416",
+			"text": "@hibbittsdesign @getgrav Thanks! Grav is my favorite new CMS and Git Sync opens open many possibilities for distributed content management.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hibbittsdesign",
+						"name": "Hibbitts Design",
+						"id": 15949844,
+						"id_str": "15949844",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "getgrav",
+						"name": "Grav",
+						"id": 2737573033,
+						"id_str": "2737573033",
+						"indices": [
+							16,
+							24
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 841714006406520800,
+			"in_reply_to_status_id_str": "841714006406520835",
+			"in_reply_to_user_id": 15949844,
+			"in_reply_to_user_id_str": "15949844",
+			"in_reply_to_screen_name": "hibbittsdesign",
+			"user": {
+				"id": 4834061267,
+				"id_str": "4834061267",
+				"name": "Steve Tsiopanos",
+				"screen_name": "getcapi",
+				"location": "Annapolis, MD",
+				"description": "cAPI - Powered by Slim micro-framework - an extensible platform for building robust REST APIs. https://t.co/3rcHMtgqH5 | https://t.co/m810jwZkh2",
+				"url": "https://t.co/hpvFx1pBu2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hpvFx1pBu2",
+								"expanded_url": "http://getcapi.org",
+								"display_url": "getcapi.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3rcHMtgqH5",
+								"expanded_url": "http://learn.getcapi.org",
+								"display_url": "learn.getcapi.org",
+								"indices": [
+									95,
+									118
+								]
+							},
+							{
+								"url": "https://t.co/m810jwZkh2",
+								"expanded_url": "http://getcapi.io",
+								"display_url": "getcapi.io",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 26,
+				"friends_count": 101,
+				"listed_count": 9,
+				"created_at": "Fri Jan 22 03:37:02 +0000 2016",
+				"favourites_count": 168,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 254,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690381445819404292/Wlbhm8Rk.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690381445819404292/Wlbhm8Rk.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690379022132482048/JovNoEAM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690379022132482048/JovNoEAM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4834061267/1453434281",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 18:16:22 +0000 2017",
+		"id": 841714638676930600,
+		"id_str": "841714638676930562",
+		"text": "Thanks for the kind shoutout today @btopro, great overview of the @elmsln project👍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "btopro",
+					"name": "Bryan ✻llendyke",
+					"id": 16847370,
+					"id_str": "16847370",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"screen_name": "elmsln",
+					"name": "✻ ELMS:LN ✻",
+					"id": 236846178,
+					"id_str": "236846178",
+					"indices": [
+						66,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 18:13:52 +0000 2017",
+		"id": 841714006406520800,
+		"id_str": "841714006406520835",
+		"text": "Awesome example of @getgrav Git Sync plugin at work! Grav skeleton combining Learn2 with Git Sync setup assistance:… https://t.co/st4C9KyKWB",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/st4C9KyKWB",
+					"expanded_url": "https://twitter.com/i/web/status/841714006406520835",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 841674763416272900,
+		"quoted_status_id_str": "841674763416272901",
+		"quoted_status": {
+			"created_at": "Tue Mar 14 15:37:55 +0000 2017",
+			"id": 841674763416272900,
+			"id_str": "841674763416272901",
+			"text": "@getcapi documentation now in @github using Git Sync plugin https://t.co/pyHOB0TY2d by @trilbymedia on @getgrav https://t.co/2ggC2wmaBK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "getcapi",
+						"name": "Steve Tsiopanos",
+						"id": 4834061267,
+						"id_str": "4834061267",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "github",
+						"name": "GitHub",
+						"id": 13334762,
+						"id_str": "13334762",
+						"indices": [
+							30,
+							37
+						]
+					},
+					{
+						"screen_name": "trilbymedia",
+						"name": "Trilby Media",
+						"id": 802226211971858400,
+						"id_str": "802226211971858433",
+						"indices": [
+							87,
+							99
+						]
+					},
+					{
+						"screen_name": "getgrav",
+						"name": "Grav",
+						"id": 2737573033,
+						"id_str": "2737573033",
+						"indices": [
+							103,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pyHOB0TY2d",
+						"expanded_url": "https://getgrav.org/blog/git-sync-plugin",
+						"display_url": "getgrav.org/blog/git-sync-…",
+						"indices": [
+							60,
+							83
+						]
+					},
+					{
+						"url": "https://t.co/2ggC2wmaBK",
+						"expanded_url": "https://github.com/annatech/learn.getcapi.org",
+						"display_url": "github.com/annatech/learn…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 4834061267,
+			"in_reply_to_user_id_str": "4834061267",
+			"in_reply_to_screen_name": "getcapi",
+			"user": {
+				"id": 4834061267,
+				"id_str": "4834061267",
+				"name": "Steve Tsiopanos",
+				"screen_name": "getcapi",
+				"location": "Annapolis, MD",
+				"description": "cAPI - Powered by Slim micro-framework - an extensible platform for building robust REST APIs. https://t.co/3rcHMtgqH5 | https://t.co/m810jwZkh2",
+				"url": "https://t.co/hpvFx1pBu2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hpvFx1pBu2",
+								"expanded_url": "http://getcapi.org",
+								"display_url": "getcapi.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3rcHMtgqH5",
+								"expanded_url": "http://learn.getcapi.org",
+								"display_url": "learn.getcapi.org",
+								"indices": [
+									95,
+									118
+								]
+							},
+							{
+								"url": "https://t.co/m810jwZkh2",
+								"expanded_url": "http://getcapi.io",
+								"display_url": "getcapi.io",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 26,
+				"friends_count": 101,
+				"listed_count": 9,
+				"created_at": "Fri Jan 22 03:37:02 +0000 2016",
+				"favourites_count": 168,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 254,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690381445819404292/Wlbhm8Rk.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690381445819404292/Wlbhm8Rk.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690379022132482048/JovNoEAM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690379022132482048/JovNoEAM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4834061267/1453434281",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 18:09:39 +0000 2017",
+		"id": 841712946027749400,
+		"id_str": "841712946027749376",
+		"text": "@drchuck I *almost* submitted a proposal but was not sure about fit at the time🤔 Let's connect once you are in town for that coffee!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drchuck",
+					"name": "drchuck",
+					"id": 10185562,
+					"id_str": "10185562",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 841704615150272500,
+		"in_reply_to_status_id_str": "841704615150272513",
+		"in_reply_to_user_id": 10185562,
+		"in_reply_to_user_id_str": "10185562",
+		"in_reply_to_screen_name": "drchuck",
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 16:40:27 +0000 2017",
+		"id": 841690498469261300,
+		"id_str": "841690498469261312",
+		"text": "RT @clintlalonde: Free EdTech Demo webinar with @btopro and @elmsln starts in 50 minutes (10am PDT March14/17) https://t.co/jUqAKUSfhs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clintlalonde",
+					"name": "Clint Lalonde",
+					"id": 12991032,
+					"id_str": "12991032",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "btopro",
+					"name": "Bryan ✻llendyke",
+					"id": 16847370,
+					"id_str": "16847370",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"screen_name": "elmsln",
+					"name": "✻ ELMS:LN ✻",
+					"id": 236846178,
+					"id_str": "236846178",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jUqAKUSfhs",
+					"expanded_url": "http://bit.ly/2lw4kaa",
+					"display_url": "bit.ly/2lw4kaa",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 14 16:12:52 +0000 2017",
+			"id": 841683559605710800,
+			"id_str": "841683559605710849",
+			"text": "Free EdTech Demo webinar with @btopro and @elmsln starts in 50 minutes (10am PDT March14/17) https://t.co/jUqAKUSfhs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "btopro",
+						"name": "Bryan ✻llendyke",
+						"id": 16847370,
+						"id_str": "16847370",
+						"indices": [
+							30,
+							37
+						]
+					},
+					{
+						"screen_name": "elmsln",
+						"name": "✻ ELMS:LN ✻",
+						"id": 236846178,
+						"id_str": "236846178",
+						"indices": [
+							42,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jUqAKUSfhs",
+						"expanded_url": "http://bit.ly/2lw4kaa",
+						"display_url": "bit.ly/2lw4kaa",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12991032,
+				"id_str": "12991032",
+				"name": "Clint Lalonde",
+				"screen_name": "clintlalonde",
+				"location": "Victoria, BC, Canada",
+				"description": "Network learning, web hacking, bike riding, #VWFC #CanMNT loving Dad. Open education, @cc_canada, @RRUEduStudies Faculty, EdTech Manager @BCcampus",
+				"url": "http://t.co/jOF9eZxqXD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jOF9eZxqXD",
+								"expanded_url": "http://clintlalonde.net",
+								"display_url": "clintlalonde.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3106,
+				"friends_count": 1935,
+				"listed_count": 290,
+				"created_at": "Sat Feb 02 21:31:56 +0000 2008",
+				"favourites_count": 4782,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23556,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806542840595496960/1zdaDcHP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806542840595496960/1zdaDcHP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12991032/1455755846",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 15:39:52 +0000 2017",
+		"id": 841675253176651800,
+		"id_str": "841675253176651777",
+		"text": "@drchuck We should try to get together for a coffee when you are in Vancouver🙂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drchuck",
+					"name": "drchuck",
+					"id": 10185562,
+					"id_str": "10185562",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 841625379437703200,
+		"in_reply_to_status_id_str": "841625379437703168",
+		"in_reply_to_user_id": 10185562,
+		"in_reply_to_user_id_str": "10185562",
+		"in_reply_to_screen_name": "drchuck",
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 02:20:04 +0000 2017",
+		"id": 841473978069803000,
+		"id_str": "841473978069803009",
+		"text": "RT @getgrav: Check out v2.0 of Trilby's Flex-Directory plugin.  Make sure you follow @trilbymedia too! https://t.co/nvN0BZqJ3p",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "trilbymedia",
+					"name": "Trilby Media",
+					"id": 802226211971858400,
+					"id_str": "802226211971858433",
+					"indices": [
+						85,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nvN0BZqJ3p",
+					"expanded_url": "https://twitter.com/trilbymedia/status/841464813360431104",
+					"display_url": "twitter.com/trilbymedia/st…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 694,
+			"listed_count": 192,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2146,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 14 01:44:21 +0000 2017",
+			"id": 841464986434207700,
+			"id_str": "841464986434207744",
+			"text": "Check out v2.0 of Trilby's Flex-Directory plugin.  Make sure you follow @trilbymedia too! https://t.co/nvN0BZqJ3p",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "trilbymedia",
+						"name": "Trilby Media",
+						"id": 802226211971858400,
+						"id_str": "802226211971858433",
+						"indices": [
+							72,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nvN0BZqJ3p",
+						"expanded_url": "https://twitter.com/trilbymedia/status/841464813360431104",
+						"display_url": "twitter.com/trilbymedia/st…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": 841464813360431100,
+			"in_reply_to_status_id_str": "841464813360431104",
+			"in_reply_to_user_id": 802226211971858400,
+			"in_reply_to_user_id_str": "802226211971858433",
+			"in_reply_to_screen_name": "trilbymedia",
+			"user": {
+				"id": 2737573033,
+				"id_str": "2737573033",
+				"name": "Grav",
+				"screen_name": "getgrav",
+				"location": "Everywhere...",
+				"description": "A Modern Flat-File CMS.\r\nCrazy Fast, Ridiculously Easy, & Amazingly Powerful...",
+				"url": "http://t.co/WOPH9dC7XN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WOPH9dC7XN",
+								"expanded_url": "http://getgrav.org",
+								"display_url": "getgrav.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4078,
+				"friends_count": 1506,
+				"listed_count": 0,
+				"created_at": "Sat Aug 16 16:05:54 +0000 2014",
+				"favourites_count": 900,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1682,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/529127267394260992/W__oOPP5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/529127267394260992/W__oOPP5_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2737573033/1444679068",
+				"profile_link_color": "3BABE0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 841464813360431100,
+			"quoted_status_id_str": "841464813360431104",
+			"quoted_status": {
+				"created_at": "Tue Mar 14 01:43:39 +0000 2017",
+				"id": 841464813360431100,
+				"id_str": "841464813360431104",
+				"text": "Flex-Directory plugin v2.0.0 released.   File uploads supported as well as create/edit/list options on save. https://t.co/zt6uGtzkKc",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/zt6uGtzkKc",
+							"expanded_url": "https://github.com/trilbymedia/grav-plugin-flex-directory",
+							"display_url": "github.com/trilbymedia/gr…",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 802226211971858400,
+					"id_str": "802226211971858433",
+					"name": "Trilby Media",
+					"screen_name": "trilbymedia",
+					"location": "Everywhere, USA",
+					"description": "Trilby Media specializes in custom development and professional services for Grav CMS.",
+					"url": "https://t.co/GdPC8RE5yS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/GdPC8RE5yS",
+									"expanded_url": "http://trilby.media",
+									"display_url": "trilby.media",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 33,
+					"friends_count": 11,
+					"listed_count": 1,
+					"created_at": "Fri Nov 25 19:03:28 +0000 2016",
+					"favourites_count": 19,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 21,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/812037026140880896/8BeR5ByN_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/812037026140880896/8BeR5ByN_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/802226211971858433/1480113052",
+					"profile_link_color": "2F5498",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 841464813360431100,
+		"quoted_status_id_str": "841464813360431104",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 13 20:55:48 +0000 2017",
 		"id": 841392372806164500,
 		"id_str": "841392372806164480",
