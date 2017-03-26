@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 19:11:53 +0000 2017",
+		"id": 845714874701299700,
+		"id_str": "845714874701299713",
+		"text": "RT @dmitryn: #UX #design #strategy #methods https://t.co/ml3TJvALeO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UX",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "design",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "strategy",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"text": "methods",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dmitryn",
+					"name": "Dmitry Nekrasovski",
+					"id": 1550251,
+					"id_str": "1550251",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ml3TJvALeO",
+					"expanded_url": "https://twitter.com/TimothyWhalin/status/845065992875065344",
+					"display_url": "twitter.com/TimothyWhalin/…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15949844,
+			"id_str": "15949844",
+			"name": "Hibbitts Design",
+			"screen_name": "hibbittsdesign",
+			"location": "Vancouver, BC, CANADA",
+			"description": "Building open [source] software for learning ecosystems, including #OER and the evolving #NGDLE. Leveraging @getgrav as a personal open platform in education.",
+			"url": "https://t.co/9eojXoP2MJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9eojXoP2MJ",
+							"expanded_url": "http://www.hibbittsdesign.org",
+							"display_url": "hibbittsdesign.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1040,
+			"friends_count": 692,
+			"listed_count": 193,
+			"created_at": "Fri Aug 22 20:33:59 +0000 2008",
+			"favourites_count": 2171,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5013,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468154432/7a3c08c22328e62ca9f18c47acb685c6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15949844/1488481072",
+			"profile_link_color": "80A71F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 25 19:11:00 +0000 2017",
+			"id": 845714651098832900,
+			"id_str": "845714651098832897",
+			"text": "#UX #design #strategy #methods https://t.co/ml3TJvALeO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UX",
+						"indices": [
+							0,
+							3
+						]
+					},
+					{
+						"text": "design",
+						"indices": [
+							4,
+							11
+						]
+					},
+					{
+						"text": "strategy",
+						"indices": [
+							12,
+							21
+						]
+					},
+					{
+						"text": "methods",
+						"indices": [
+							22,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ml3TJvALeO",
+						"expanded_url": "https://twitter.com/TimothyWhalin/status/845065992875065344",
+						"display_url": "twitter.com/TimothyWhalin/…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1550251,
+				"id_str": "1550251",
+				"name": "Dmitry Nekrasovski",
+				"screen_name": "dmitryn",
+				"location": "Ottawa, Canada",
+				"description": "Director, #UX @dreasoning. Humanizing #AI in the #enterprise. Strong opinions, weakly held. Dad to two little boys. Powered by sunshine and chocolate.",
+				"url": "https://t.co/46DzZ7MQme",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/46DzZ7MQme",
+								"expanded_url": "http://ca.linkedin.com/in/dmitrynekrasovski",
+								"display_url": "ca.linkedin.com/in/dmitrynekra…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 804,
+				"friends_count": 154,
+				"listed_count": 447,
+				"created_at": "Mon Mar 19 20:32:28 +0000 2007",
+				"favourites_count": 2874,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9134,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782222704116113408/m5K6UG9P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782222704116113408/m5K6UG9P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1550251/1401806230",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 845065992875065300,
+			"quoted_status_id_str": "845065992875065344",
+			"quoted_status": {
+				"created_at": "Fri Mar 24 00:13:27 +0000 2017",
+				"id": 845065992875065300,
+				"id_str": "845065992875065344",
+				"text": "Summary of the 7-step process on Planning for Strategic Design introduced by @morville and @KitSeeborg’s #ias17 wor… https://t.co/kHb7TIHlpF",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ias17",
+							"indices": [
+								105,
+								111
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "morville",
+							"name": "Peter Morville",
+							"id": 1230801,
+							"id_str": "1230801",
+							"indices": [
+								77,
+								86
+							]
+						},
+						{
+							"screen_name": "KitSeeborg",
+							"name": "Kit Seeborg",
+							"id": 812825,
+							"id_str": "812825",
+							"indices": [
+								91,
+								102
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/kHb7TIHlpF",
+							"expanded_url": "https://twitter.com/i/web/status/845065992875065344",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 153285489,
+					"id_str": "153285489",
+					"name": "Timothy Whalin",
+					"screen_name": "TimothyWhalin",
+					"location": "Seattle, WA",
+					"description": "UX Designer @Amazon.com's navigation. Accessibility advocate, wine-lover, uke player, and foodie-wannabe. Married my best friend, @MeganWhalin.  ✝",
+					"url": "http://t.co/qvXdmnwc38",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/qvXdmnwc38",
+									"expanded_url": "http://www.timothywhalin.com",
+									"display_url": "timothywhalin.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 14533,
+					"friends_count": 1411,
+					"listed_count": 2103,
+					"created_at": "Tue Jun 08 04:23:24 +0000 2010",
+					"favourites_count": 493,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 42902,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F5F2",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000098773432/dfb7a83d1bfcaf5474881cd243c0bba5.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000098773432/dfb7a83d1bfcaf5474881cd243c0bba5.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/845013455295803393/slMRTh1A_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/845013455295803393/slMRTh1A_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/153285489/1415479545",
+					"profile_link_color": "F4772E",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "AFAFAF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9,
+				"favorite_count": 42,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 845065992875065300,
+		"quoted_status_id_str": "845065992875065344",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Mar 25 00:03:19 +0000 2017",
 		"id": 845425828674482200,
 		"id_str": "845425828674482208",
